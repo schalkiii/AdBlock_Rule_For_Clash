@@ -112,7 +112,22 @@ $urlList = @(
 "https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
 "https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
 "https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/TrackParamFilter/sections/allowlist.txt",
-"https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/TrackParamFilter/sections/general_url.txt"
+"https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/TrackParamFilter/sections/general_url.txt",
+"https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt",
+"https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt",
+"https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt",
+"https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt",
+"https://github.boki.moe/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt",
+"https://github.boki.moe/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
+"https://ghfast.top/raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt",
+"https://ghfast.top/raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt",
+"https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Watermark.txt",
+"https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Firefox/Restore/Adblock_Popup.txt",
+"https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/minority-mv.txt",
+"https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt",
+"https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/mv.txt",
+"https://ghp.ci/raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-ublock.txt",
+"https://ghp.ci/raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt"
 )
 
 # 日志文件路径
