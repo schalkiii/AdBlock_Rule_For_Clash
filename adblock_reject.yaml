@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-27 12:02:05
+# Generated on: 2026-07-27 15:51:28
 # Generated AdBlock rules
-# Total entries: 248847
+# Total entries: 248848
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -18412,6 +18412,7 @@ payload:
 - 'acv.mc-nurse.net'
 - 'acv.mc-pharma.net'
 - 'acv.me-hikari.net'
+- 'acv.mira-dsp.com'
 - 'acv.next-air-wifi.com'
 - 'acv.next-internet.info'
 - 'acv.nft-hikari.net'
