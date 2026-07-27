@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-27 21:35:25
+# Generated on: 2026-07-28 00:00:56
 # Generated AdBlock rules
-# Total entries: 248849
+# Total entries: 248850
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -43334,6 +43334,7 @@ payload:
 - 'd3kyk5bao1crtw.cloudfront.net'
 - 'd3l3lkinz3f56t.cloudfront.net'
 - 'd3lqotgbn3npr.cloudfront.net'
+- 'd3lw7s0briwuoi.cloudfront.net'
 - 'd3m6crjuedf6o.cloudfront.net'
 - 'd3oep4gb91kpuv.cloudfront.net'
 - 'd3p2b5qewrnsyv.cloudfront.net'
