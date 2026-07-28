@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-28 17:58:01
+# Generated on: 2026-07-28 19:51:31
 # Generated AdBlock rules
-# Total entries: 248857
+# Total entries: 248858
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -21632,6 +21632,7 @@ payload:
 - 'al3jbbnxpt8m4tl-c.adkclicker.fr'
 - 'alaburger.openapp.link'
 - 'aladdinupdate.blackrock.com'
+- 'aladinia.app'
 - 'alamin.annawabi.com'
 - 'alamocapital.actonservice.com'
 - 'alapita.openapp.link'
