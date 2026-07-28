@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-28 15:19:33
+# Generated on: 2026-07-28 17:58:01
 # Generated AdBlock rules
-# Total entries: 248852
+# Total entries: 248857
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -22508,6 +22508,7 @@ payload:
 - 'analytics.crawfordcountybank.com'
 - 'analytics.crea.ca'
 - 'analytics.creem.com'
+- 'analytics.crewly.pl'
 - 'analytics.crowdkeep.com'
 - 'analytics.cycleworld.com'
 - 'analytics.cyrillus.be'
@@ -35044,6 +35045,7 @@ payload:
 - 'cdp.americanexpress.ch'
 - 'cdp.cashback-cards.ch'
 - 'cdp.cloud.unity.cn'
+- 'cdp.customer.io'
 - 'cdp.getswisscard.ch'
 - 'cdp.miles-and-more-cards.ch'
 - 'cdp.swisscard.ch'
@@ -39443,6 +39445,7 @@ payload:
 - 'cloud.mktg.salesforce.com'
 - 'cloud.mktg1.paypal.com'
 - 'cloud.mktgc.salesforce.com'
+- 'cloud.monolytics.app'
 - 'cloud.more.comcater.com.au'
 - 'cloud.mortgage.arvest.com'
 - 'cloud.moyagi.com'
@@ -50007,6 +50010,7 @@ payload:
 - 'e1fc0ab4de.0014b04291.com'
 - 'e1ff2dcbaf.80a16e63df.com'
 - 'e2.hazeldenbettyford.org'
+- 'e2.sy-d.io'
 - 'e2.thedailybeast.com'
 - 'e2.wlessin.com'
 - 'e20d8e38992b.o3n.io'
@@ -138318,6 +138322,7 @@ payload:
 - 'floridapowerandlight.tt.omtrdc.net'
 - 'floripa.cursodetti.com.br'
 - 'flotech.actonservice.com'
+- 'flow-control.profitroom.net'
 - 'flow-prod.h24.news'
 - 'flow.aft.com'
 - 'flow.curendo.de'
