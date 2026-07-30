@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-30 20:20:07
+# Generated on: 2026-07-30 22:36:23
 # Generated AdBlock rules
-# Total entries: 248862
+# Total entries: 248863
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -240172,6 +240172,7 @@ payload:
 - 'warbler.todoscout.com'
 - 'wareneingang.edeka.de'
 - 'warfieldtech.actonservice.com'
+- 'warkedmalie.com'
 - 'warmingpod-ss.olladeals.com'
 - 'warp.media.net'
 - 'warranty.sompo-swt.com'
