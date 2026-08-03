@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-03 16:18:02
+# Generated on: 2026-08-03 19:44:57
 # Generated AdBlock rules
-# Total entries: 248871
+# Total entries: 248865
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -201204,6 +201204,7 @@ payload:
 - 'serv.venicci.co.uk'
 - 'serv.zarbeebd.com'
 - 'servcont.usetrico.com.br'
+- 'serve.affiliate.heurekashopping.sk'
 - 'serve.amitymart.store'
 - 'serve.bdsmstreak.com'
 - 'serve.bergbier.de'
@@ -235521,13 +235522,6 @@ payload:
 - 'ulyqnknbb9vthro-p.adktrack30.xyz'
 - 'um-public-panel-prod.s3.amazonaws.com'
 - 'um.merinfo.se'
-- 'umami.aigenerations.net'
-- 'umami.spencerdevs.xyz'
-- 'umami.subdavis.com'
-- 'umami.syg.ma'
-- 'umami.vidcore.net'
-- 'umami.vidfast.pro'
-- 'umami.vidup.to'
 - 'umamix.fadunews.in'
 - 'umassmemorial.hrm.healthgrades.com'
 - 'umazvs.raybiotech.com'
