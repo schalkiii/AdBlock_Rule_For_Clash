@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-04 15:18:39
+# Generated on: 2026-08-04 17:59:41
 # Generated AdBlock rules
-# Total entries: 382400
+# Total entries: 382401
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -228902,6 +228902,7 @@ payload:
 - 'gsg9.carrefour-banque.fr'
 - 'gsgir.tt.omtrdc.net'
 - 'gsi.blackbox.com'
+- 'gsitrix.com'
 - 'gsjznb.damondmotorsports.com'
 - 'gslclvw.lackorecouture.com'
 - 'gslive.edm.globalsources.com'
