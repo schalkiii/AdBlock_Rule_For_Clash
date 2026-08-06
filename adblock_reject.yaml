@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-06 11:56:17
+# Generated on: 2026-08-06 14:20:31
 # Generated AdBlock rules
-# Total entries: 382404
+# Total entries: 382409
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -26953,6 +26953,7 @@ payload:
 - 'api.anacorso.com.br'
 - 'api.anactr.com.br'
 - 'api.analebear.com'
+- 'api.analytics.dobrosvyaz.com'
 - 'api.analytics.omgpop.com'
 - 'api.anandainsights.com.br'
 - 'api.anapaulacarvalho.com'
@@ -36560,6 +36561,7 @@ payload:
 - 'blackwoods.tt.omtrdc.net'
 - 'blade.tt.omtrdc.net'
 - 'bladv.actonservice.com'
+- 'blakeunwanted.com'
 - 'blakwc.sabon.fr'
 - 'blaltn.physicianschoice.com'
 - 'blanc24stage-mhb-dhcp.net.daraz.com'
@@ -288084,6 +288086,7 @@ payload:
 - 'preferencestoolauth.share.ntv.io'
 - 'prefs.comms.carwow.co.uk'
 - 'prefs.enablehr.com.au'
+- 'prehurl.com'
 - 'prejav.assets.net.daraz.com'
 - 'premera.tt.omtrdc.net'
 - 'premierbuyer.edm.globalsources.com'
@@ -289636,6 +289639,7 @@ payload:
 - 'pushpop.nativeads.com'
 - 'pushspring.actonservice.com'
 - 'pushwelcome.com'
+- 'pusqfnqjeekvd.website'
 - 'puteshestvui.xham.live'
 - 'puuush.me'
 - 'puzzle.spiriteq.com'
@@ -361214,6 +361218,7 @@ payload:
 - 'welltonstagingstaging.javhihi.net.daraz.com'
 - 'wellui00.tt.tt.omtrdc.net'
 - 'wellvantage.tt.omtrdc.net'
+- 'wellworn-lead.com'
 - 'wellyh-staging-mr.net.daraz.com'
 - 'wellyh.stageallbesta.net.daraz.com'
 - 'wellyh.stagingabgsex.net.daraz.com'
