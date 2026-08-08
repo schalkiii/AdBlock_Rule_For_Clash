@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-08 15:15:31
+# Generated on: 2026-08-08 16:00:06
 # Generated AdBlock rules
-# Total entries: 382414
+# Total entries: 382415
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -328481,6 +328481,7 @@ payload:
 - 'superboosty.com'
 - 'superior-grocers.links.rosieapp.com'
 - 'superiorgroup.actonservice.com'
+- 'supersedeaccolade.com'
 - 'supersonicads-a.akamaihd.net'
 - 'superstats.observepoint.com'
 - 'superup322.com'
