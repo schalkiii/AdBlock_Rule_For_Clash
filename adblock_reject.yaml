@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-10 20:27:54
+# Generated on: 2026-08-10 22:00:07
 # Generated AdBlock rules
-# Total entries: 382416
+# Total entries: 382418
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -270078,6 +270078,7 @@ payload:
 - 'maschine.bengs-modellbau.de'
 - 'maschinenfabrik.reinhausen.com'
 - 'maserati.app.mobilapp.io'
+- 'maskmonopoly.com'
 - 'massmail.ficci.com'
 - 'massmutual.actonservice.com'
 - 'master-hostingstamfordadvocate.share.ntv.io'
@@ -312093,6 +312094,7 @@ payload:
 - 'spinnakermgmt.actonservice.com'
 - 'spirit.notifysrv.com'
 - 'spiritairlines.tt.omtrdc.net'
+- 'spitefulmom.com'
 - 'spixel.socy.es'
 - 'spjysa.only.com'
 - 'spkyb.appleseeds.com'
