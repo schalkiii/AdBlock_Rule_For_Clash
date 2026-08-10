@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-10 19:39:01
+# Generated on: 2026-08-10 20:27:54
 # Generated AdBlock rules
-# Total entries: 382414
+# Total entries: 382416
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -47739,6 +47739,7 @@ payload:
 - 'com.api-static-stage.net.daraz.com'
 - 'com.gardio.se'
 - 'comagic.ru'
+- 'comanicilikeiste.com'
 - 'comatmoviehd.net.daraz.com'
 - 'comatsu.myavlive.com'
 - 'combimatrix.actonservice.com'
@@ -286331,6 +286332,7 @@ payload:
 - 'pebble.nextra-strategy.de'
 - 'pebed.dm-event.net'
 - 'pec8invbfzzrucp-p.unenoteunjour.fr'
+- 'pecannerous.com'
 - 'peepcloud.joinpeep.io'
 - 'pefvp.theubeauty.co.uk'
 - 'pega.com'
