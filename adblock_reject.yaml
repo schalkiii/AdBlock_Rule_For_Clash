@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-11 18:28:30
+# Generated on: 2026-08-11 19:24:37
 # Generated AdBlock rules
-# Total entries: 382424
+# Total entries: 382425
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -228523,6 +228523,7 @@ payload:
 - 'greateasternlife.tt.omtrdc.net'
 - 'greater-pa.00d300000000t9beau.net.daraz.com'
 - 'greaternemo.tmi.tt.omtrdc.net'
+- 'greatpuppydogs.com'
 - 'greatwestlife.tt.omtrdc.net'
 - 'grebshop.tt.omtrdc.net'
 - 'green-valley-marketplace-of-sunnyside.links.rosieapp.com'
