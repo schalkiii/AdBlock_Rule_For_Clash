@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-11 12:09:46
+# Generated on: 2026-08-11 13:29:12
 # Generated AdBlock rules
-# Total entries: 382419
+# Total entries: 382422
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -31000,6 +31000,7 @@ payload:
 - 'assets.mystica.no'
 - 'assets.net.daraz.com'
 - 'assets.ogrzewanie-pex.pl'
+- 'assets.onedollarstats.com'
 - 'assets.oupe.es'
 - 'assets.piercingkungen.se'
 - 'assets.prydligt.com'
@@ -345251,6 +345252,7 @@ payload:
 - 'u.jp.omg.adult'
 - 'u.knuffelwuff.at'
 - 'u.knuffelwuff.dk'
+- 'u.lessbutbetter.studio'
 - 'u.makro.es'
 - 'u.makro.pl'
 - 'u.makro.pt'
@@ -349999,6 +350001,7 @@ payload:
 - 'v.tech.ajc.share.ntv.io'
 - 'v.topya.com'
 - 'v.voloalto.eu'
+- 'v.voltmail.io'
 - 'v.voxberg.com'
 - 'v.vulture-1.com'
 - 'v.wedeo.fr'
