@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-13 23:14:47
+# Generated on: 2026-08-14 00:09:40
 # Generated AdBlock rules
-# Total entries: 382431
+# Total entries: 382433
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -20112,6 +20112,7 @@ payload:
 - 'adashx-spring.net.daraz.com'
 - 'adashx-www.partner.net.daraz.com'
 - 'adashx.kubemarketing.net.daraz.com'
+- 'adashx.m.taobao.com'
 - 'adashx.ut.alibaba.com'
 - 'adashx.v2-interaction.net.daraz.com'
 - 'adashx.viviotech.net.daraz.com'
@@ -290544,6 +290545,7 @@ payload:
 - 'qzpki.vacationangel.com'
 - 'qzppzo.debbiemeyer.co.kr'
 - 'qzreoh.squatwolf.com'
+- 'qzs.gdtimg.com'
 - 'qzsnbe.lampara.es'
 - 'qzthc.vayasleep.com'
 - 'qzu5.carrefour-banque.fr'
