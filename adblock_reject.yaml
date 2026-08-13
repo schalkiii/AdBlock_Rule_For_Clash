@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-13 16:08:49
+# Generated on: 2026-08-13 17:33:30
 # Generated AdBlock rules
-# Total entries: 382428
+# Total entries: 382429
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -27300,6 +27300,7 @@ payload:
 - 'api.financeiroweb.com.br'
 - 'api.findenkaereste.dk'
 - 'api.fiodeminastricot.com.br'
+- 'api.firwinds.site'
 - 'api.fitzeus.com'
 - 'api.flatroninformatica.com.br'
 - 'api.flordelizdesignfloral.com.br'
