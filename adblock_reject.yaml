@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-13 20:27:40
+# Generated on: 2026-08-13 22:03:14
 # Generated AdBlock rules
-# Total entries: 382429
+# Total entries: 382431
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -271173,6 +271173,7 @@ payload:
 - 'mega.mydealz.de'
 - 'megabite.openapp.link'
 - 'megadata.co.kr'
+- 'megapred.com'
 - 'mehadi.cosyneeds.shop'
 - 'mehedi.amamfashion.net'
 - 'mehedi.electrohubemart.com'
@@ -289340,6 +289341,7 @@ payload:
 - 'pub.vendasta.com'
 - 'pub.venpro.abbvie.com'
 - 'pub1.co'
+- 'pubfuture-ssp.com'
 - 'pubjelly.nxjmp.com'
 - 'public-check3-at.test.tiaa-cref.org'
 - 'public-check3-at.test.tiaa.org'
