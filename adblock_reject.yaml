@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-14 09:26:31
+# Generated on: 2026-08-14 11:48:46
 # Generated AdBlock rules
-# Total entries: 382434
+# Total entries: 382435
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -264983,6 +264983,7 @@ payload:
 - 'lurei.luftreinigerdepot.de'
 - 'lusgle.hudabeauty.com'
 - 'luttc.erogenos.com'
+- 'luugy.com'
 - 'luuib.sillysanta.se'
 - 'luuonz.motoblouz.com'
 - 'luutf.longtermdenials.com'
