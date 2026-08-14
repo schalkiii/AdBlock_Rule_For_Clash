@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-14 17:20:32
+# Generated on: 2026-08-14 18:26:57
 # Generated AdBlock rules
-# Total entries: 382436
+# Total entries: 382437
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -203994,6 +203994,7 @@ payload:
 - 'ezoeyd.planetahuerto.pt'
 - 'ezofv.gesundheit-der-frau.com'
 - 'ezoicanalytics.com'
+- 'ezojs.com'
 - 'ezpls.wearerasa.com'
 - 'ezrcd.uniforms4healthcare.com'
 - 'ezrqqa.gocar.be'
