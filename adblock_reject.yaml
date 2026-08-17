@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-17 12:02:24
+# Generated on: 2026-08-17 12:58:18
 # Generated AdBlock rules
-# Total entries: 382438
+# Total entries: 382439
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -22813,6 +22813,7 @@ payload:
 - 'affiliate.ucetni-portal.cz'
 - 'affiliate.uncaria.cz'
 - 'affiliate.unicare.sk'
+- 'affiliate.unisender.com'
 - 'affiliate.vasecocky.cz'
 - 'affiliate.vasesosovky.sk'
 - 'affiliate.velebny.cz'
