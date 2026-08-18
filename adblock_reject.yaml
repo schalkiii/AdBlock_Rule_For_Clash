@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-18 08:26:43
+# Generated on: 2026-08-18 10:03:25
 # Generated AdBlock rules
-# Total entries: 503899
+# Total entries: 503902
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -406653,6 +406653,7 @@ payload:
 - 'phyins.actonservice.com'
 - 'phyon.communipay.net'
 - 'phyon.visit-x.net'
+- 'physicaldad.com'
 - 'physocean-legacy.net.daraz.com'
 - 'physocean-satta.net.daraz.com'
 - 'physoceangenerator.net.daraz.com'
@@ -425233,6 +425234,7 @@ payload:
 - 'shaikat.nolokjewelry.com'
 - 'shaker.toz24.com'
 - 'shakil.per-la.com'
+- 'shameful-farm.com'
 - 'shamim.thetechrock.com'
 - 'shamrockfsw-bbanywhere.links.rosieapp.com'
 - 'shanto.discountloverbd.com'
@@ -426827,6 +426829,7 @@ payload:
 - 'smade.quellilainitaly.com'
 - 'smail.keeprecipes.com'
 - 'smail.solartaxpros.com'
+- 'smallanywhere.com'
 - 'smallbusiness.adpinfo.com'
 - 'smart-placements-sdk.ex.co'
 - 'smart.cameramatics.com'
