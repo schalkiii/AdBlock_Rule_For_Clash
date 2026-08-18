@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-18 11:58:31
+# Generated on: 2026-08-18 12:28:04
 # Generated AdBlock rules
-# Total entries: 503902
+# Total entries: 503903
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -90220,6 +90220,7 @@ payload:
 - 'dustavacuum-ss.checkoutera.com'
 - 'dutch-kills-color.accountfcanr.tt.omtrdc.net'
 - 'dutchie.plusnet.tt.omtrdc.net'
+- 'dutchrelay.com'
 - 'dutchtextanalytics.net.daraz.com'
 - 'duthc.drshumardworkshop.com'
 - 'dutiful.tt.omtrdc.net'
