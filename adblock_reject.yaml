@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-19 21:27:08
+# Generated on: 2026-08-19 22:08:57
 # Generated AdBlock rules
-# Total entries: 503913
+# Total entries: 503914
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -385822,6 +385822,7 @@ payload:
 - 'medicion.idcmayoristas.com'
 - 'medicion.peninsulaparkliving.com'
 - 'medisante.actonservice.com'
+- 'medium-while.com'
 - 'medlemskap.nof.no'
 - 'meds.androderm.com'
 - 'meds.avycaz.com'
