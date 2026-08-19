@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-20 01:56:29
+# Generated on: 2026-08-20 02:15:53
 # Generated AdBlock rules
-# Total entries: 503915
+# Total entries: 503916
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -501951,6 +501951,7 @@ payload:
 - 'zokpt.purityproducts.com'
 - 'zola.goaserv.com'
 - 'zola.spankbanglive.com'
+- 'zoligirls.com'
 - 'zoly.tech'
 - 'zombectro10.asemusic.tt.omtrdc.net'
 - 'zombieslayer-alternate.kano.link'
