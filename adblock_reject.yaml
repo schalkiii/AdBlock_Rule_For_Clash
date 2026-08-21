@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-21 11:16:22
+# Generated on: 2026-08-21 12:02:30
 # Generated AdBlock rules
-# Total entries: 503917
+# Total entries: 503919
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -26445,6 +26445,7 @@ payload:
 - 'analytics.securebanklogin.com'
 - 'analytics.sedrajewellery.com'
 - 'analytics.seekxr.com'
+- 'analytics.sen.go.kr'
 - 'analytics.send.cm'
 - 'analytics.sensorpartners.com'
 - 'analytics.servettefc.ch'
@@ -449307,6 +449308,7 @@ payload:
 - 'sumai2.tatemono.com'
 - 'sumaiya.sumaiyahairtonic.com'
 - 'sumatoad.com'
+- 'sumetrika.com'
 - 'sumitomomitsuicard.tt.omtrdc.net'
 - 'sumitomomitsuitrustc.tt.omtrdc.net'
 - 'summary.bookoff.co.jp'
