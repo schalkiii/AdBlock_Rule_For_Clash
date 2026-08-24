@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-24 20:19:38
+# Generated on: 2026-08-24 21:16:26
 # Generated AdBlock rules
-# Total entries: 503925
+# Total entries: 503927
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -30902,6 +30902,7 @@ payload:
 - 'appgift.sinaapp.com'
 - 'appgiftwall.oss-us-west-1.aliyuncs.com'
 - 'appgiveshop.abphotos.link'
+- 'appgw.inmobi.com'
 - 'appia.com'
 - 'appiancorp.tt.omtrdc.net'
 - 'appioication-spring.net.daraz.com'
@@ -477543,6 +477544,7 @@ payload:
 - 'vision.met.vgwort.de'
 - 'vision.neurobiocomportementalisme.com'
 - 'visit-sbx.tngdigital.com.my'
+- 'visit-server.inmobi-choice.io'
 - 'visit.adelaide.edu.au'
 - 'visit.ahealthieramerica.org'
 - 'visit.argfuscator.net'
