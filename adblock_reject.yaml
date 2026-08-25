@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-25 23:05:30
+# Generated on: 2026-08-26 00:00:29
 # Generated AdBlock rules
-# Total entries: 503932
+# Total entries: 503936
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -22302,7 +22302,6 @@ payload:
 - 'adserver.infotorg.se'
 - 'adserver.kimia.es'
 - 'adserver.kozoom.com'
-- 'adserver.pandora.com'
 - 'adserver.rtvdrenthe.nl'
 - 'adserver.rtvutrechtreclame.nl'
 - 'adserver.shadow.snapads.com'
@@ -40831,6 +40830,7 @@ payload:
 - 'bypassmobile.net.daraz.com'
 - 'bypassqaeu.stape.qa'
 - 'byqdtp.interpark.com'
+- 'byracucosopenu.com'
 - 'byregionstagingabgsex.net.daraz.com'
 - 'bysbpc.teufelaudio.nl'
 - 'bysfnu.bodeboca.com'
@@ -359095,6 +359095,7 @@ payload:
 - 'lightico.net.daraz.com'
 - 'lightingshowplace.com.ssl.d1.sc.tt.omtrdc.net'
 - 'lightit-ai.tt.omtrdc.net'
+- 'lightlypowerfulgourmet.com'
 - 'lightning.makemytrip.tt.omtrdc.net'
 - 'lightning.tt.omtrdc.net'
 - 'lightning1.newyorklifeinsurance.tt.omtrdc.net'
@@ -385899,6 +385900,7 @@ payload:
 - 'meinauto.hdd-dienste.de'
 - 'meiodepagamento.campanhaporto.com.br'
 - 'meitustat.com'
+- 'mejewusodovuca.com'
 - 'mejze.nordicoutdoor.co.uk'
 - 'mekbm.ullala.ca'
 - 'meklo.kartina.tv'
@@ -412280,6 +412282,7 @@ payload:
 - 'reliancecorporateit.tt.omtrdc.net'
 - 'reliantenergyretails.tt.omtrdc.net'
 - 'relieve.trywerelieve.com'
+- 'relieved-understanding.com'
 - 'reload.hotscopes.org'
 - 'reltrd.peteralexander.com.au'
 - 'relxtu.mlabs.com.br'
@@ -503535,6 +503538,7 @@ payload:
 - 'zuerichtourismus.naruspotzong-sftpgateway.net.daraz.com'
 - 'zufsu.lee.com'
 - 'zug.sbb.ch'
+- 'zugasezuryjoxo.com'
 - 'zugcc.rotita.com'
 - 'zuhk9private42a5cez05.northamerica.net.daraz.com'
 - 'zuhk9pt42a5cez05-work.northamerica.net.daraz.com'
