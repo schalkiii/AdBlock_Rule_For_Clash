@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-26 03:00:34
+# Generated on: 2026-08-26 03:30:37
 # Generated AdBlock rules
-# Total entries: 503936
+# Total entries: 503937
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -34911,6 +34911,7 @@ payload:
 - 'beacon.www.theguardian.com'
 - 'beacon.ztgame.com'
 - 'beaconhealthsystem.hrm.healthgrades.com'
+- 'beaconimages.netflix.net'
 - 'beacons-prod.fubo.tv'
 - 'beacons.ads.fubo.tv'
 - 'beacons.digital.disneyadvertising.com'
