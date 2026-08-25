@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-25 17:03:17
+# Generated on: 2026-08-25 17:52:09
 # Generated AdBlock rules
-# Total entries: 503930
+# Total entries: 503932
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -292347,6 +292347,8 @@ payload:
 - 'exceptions-fra04-origin.tt-qe2.omtrdc.net'
 - 'exceptions-iad-eu.tt.omtrdc.net'
 - 'exceptionsmillion1.sites.tt.omtrdc.net'
+- 'excess-ga.duolingo.com'
+- 'excess.duolingo.com'
 - 'exch-f02.tt.omtrdc.net'
 - 'exch-ht01.tt.omtrdc.net'
 - 'exch-um02.adminfo-vs.accountart-of-falco.tt-qe-ci1.omtrdc.net'
