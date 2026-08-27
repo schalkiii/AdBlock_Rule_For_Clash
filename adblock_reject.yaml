@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-27 09:01:58
+# Generated on: 2026-08-27 19:13:08
 # Generated AdBlock rules
-# Total entries: 503944
+# Total entries: 503947
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -26685,6 +26685,7 @@ payload:
 - 'analytics.warnertv.fr'
 - 'analytics.washingtoncountybank.com'
 - 'analytics.watchcredo.com'
+- 'analytics.watchott.org'
 - 'analytics.wavelz.com'
 - 'analytics.wayland.app'
 - 'analytics.webads.eu'
@@ -28361,6 +28362,7 @@ payload:
 - 'api.institutovisaolivre.com.br'
 - 'api.internal.littlethings.share.ntv.io'
 - 'api.invictusjoias.com.br'
+- 'api.ipify.org'
 - 'api.ipsybr.com.br'
 - 'api.irisbela.com'
 - 'api.isajabour.com.br'
@@ -34370,6 +34372,7 @@ payload:
 - 'bastion.3m13yvxopdq99yt0.net.daraz.com'
 - 'basuey.toyscenter.it'
 - 'basyspro.actonservice.com'
+- 'bat.bing.net'
 - 'bat.heelix.be'
 - 'bat31.gimmeporn.xyz'
 - 'bathandbody.tt.omtrdc.net'
