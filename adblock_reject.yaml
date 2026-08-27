@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-27 19:13:08
+# Generated on: 2026-08-28 05:02:44
 # Generated AdBlock rules
 # Total entries: 503947
 
@@ -68058,7 +68058,6 @@ payload:
 - 'd32r49xyei4vz6.cloudfront.net'
 - 'd32z5ni8t5127x.cloudfront.net'
 - 'd332479cdbeb62d98e8d9f9312aa82d2.tt-qe5.omtrdc.net'
-- 'd335luupugsy2.cloudfront.net'
 - 'd33d77c619796d2aac514a6d2bcc31f0.accountchef-api-backup-s3-cache-production.tt.omtrdc.net'
 - 'd33f51dyacx7bd.cloudfront.net'
 - 'd340700c470d22101378607ce8872116.eu-central-1.mboxedge1.tt-qe5.omtrdc.net'
@@ -453781,6 +453780,7 @@ payload:
 - 'think.unbounce.com'
 - 'think.vyond.com'
 - 'thinkgeek.tt.omtrdc.net'
+- 'thinkingdata.cn'
 - 'thinkpragmatic.actonservice.com'
 - 'thirdbranch.zulln.se'
 - 'thirdparty.bnc.lt'
