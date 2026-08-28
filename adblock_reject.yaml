@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-28 13:25:32
+# Generated on: 2026-08-29 01:41:16
 # Generated AdBlock rules
-# Total entries: 503947
+# Total entries: 503951
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -24270,6 +24270,7 @@ payload:
 - 'ak8s-prdhenticate.net.daraz.com'
 - 'aka-patner.net.daraz.com'
 - 'aka.ae29-sjc12-dr01.net.daraz.com'
+- 'aka.asiae.co.kr'
 - 'aka.n-switch.net.daraz.com'
 - 'aka.net.daraz.com'
 - 'aka01-car21-web-wwww0node.net.daraz.com'
@@ -25433,6 +25434,7 @@ payload:
 - 'analytics-ingestion.production-public.tubi.io'
 - 'analytics-ingress-global.bitmovin.com'
 - 'analytics-ingress.bitmovin.com'
+- 'analytics-ios-tcp.rayjump.com'
 - 'analytics-k8s-prd.n-switch.net.daraz.com'
 - 'analytics-la-nwsl.yinzcam.com'
 - 'analytics-lac-nba.yinzcam.com'
@@ -395946,6 +395948,7 @@ payload:
 - 'northplains.actonservice.com'
 - 'northshore.actonservice.com'
 - 'northsidemediagroup.actonservice.com'
+- 'northstar.cr'
 - 'northwesternmutual.tt.omtrdc.net'
 - 'northwire.actonservice.com'
 - 'northwoodsoft.actonservice.com'
@@ -408109,6 +408112,7 @@ payload:
 - 'posthog.lingvanex.com'
 - 'posthog.russpass.ru'
 - 'posthog.tarnkappe.info'
+- 'posthog.worldshopping.global'
 - 'postman.postman.legacyfa-asia.com'
 - 'postmaster.asteriabd.com'
 - 'postmaster.avadacom.com'
