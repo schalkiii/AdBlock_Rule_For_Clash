@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-29 21:25:32
+# Generated on: 2026-08-30 01:21:08
 # Generated AdBlock rules
-# Total entries: 503952
+# Total entries: 503956
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -74483,6 +74483,7 @@ payload:
 - 'degnsn.birebin.com'
 - 'degree.insead.edu'
 - 'degruyter.met.vgwort.de'
+- 'dehorsshochet.com'
 - 'dei-info.dei.or.jp'
 - 'dei-info2.dcd-mkd.jp'
 - 'dejavu.mlapps.com'
@@ -293595,6 +293596,7 @@ payload:
 - 'ezyai-demo-190848466027.tt-qe5.omtrdc.net'
 - 'ezycsflow.com'
 - 'ezzdk.lectricebikes.com'
+- 'ezze0ct.com'
 - 'f-41.tt.omtrdc.net'
 - 'f-g-l-j.22yy6.com'
 - 'f.57n51vgw9rtufg4t6w.cyou'
@@ -334661,6 +334663,7 @@ payload:
 - 'hokkaidoaomahuiyulechengpaiming.tt-stage3.omtrdc.net'
 - 'hokkaidobank.rapi.jp'
 - 'hokkehokke.blog87.tt.omtrdc.net'
+- 'hokkid5.com'
 - 'hokksund.tt.omtrdc.net'
 - 'hokugin.tt.omtrdc.net'
 - 'hokutonoken.goasrv.com'
@@ -418448,6 +418451,7 @@ payload:
 - 'seek.intel.com'
 - 'seek.tt.omtrdc.net'
 - 'seek.uwa.edu.au'
+- 'seeksgironny.com'
 - 'seesaa.jp'
 - 'sefg.praxis-naveed.de'
 - 'sefkal.openapp.link'
