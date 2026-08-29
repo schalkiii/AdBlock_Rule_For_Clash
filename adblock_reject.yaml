@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-29 01:41:16
+# Generated on: 2026-08-29 09:12:45
 # Generated AdBlock rules
-# Total entries: 503951
+# Total entries: 503952
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -412572,6 +412572,7 @@ payload:
 - 'res.franc-tireur.fr'
 - 'res.lintlink.com'
 - 'res.marianne.net'
+- 'res.oa.opera.com'
 - 'res.pay.ionos.com'
 - 'res.public.fr'
 - 'res.swedishnomad.com'
