@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-30 18:39:20
+# Generated on: 2026-08-30 22:58:46
 # Generated AdBlock rules
-# Total entries: 503956
+# Total entries: 503958
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -324440,6 +324440,7 @@ payload:
 - 'grigoros.openapp.link'
 - 'grindr.equinoxfitnessclubs.tt.omtrdc.net'
 - 'grindr.nissanheliosami.tt.omtrdc.net'
+- 'grindsteeplesprung.com'
 - 'griobalid3.click.s11.sfmc-osl.com'
 - 'gripkeshof3.net.daraz.com'
 - 'grips01-ws.tt.omtrdc.net'
@@ -449379,6 +449380,7 @@ payload:
 - 'suncorp.com.au.tt.omtrdc.net'
 - 'sundanceholdingsllc.tt.omtrdc.net'
 - 'sunhome-okayama.sumitas.jp'
+- 'sunnyreception.com'
 - 'sunnyside.links.rosieapp.com'
 - 'sunpharma.tt.omtrdc.net'
 - 'sunpowercorporation.tt.omtrdc.net'
