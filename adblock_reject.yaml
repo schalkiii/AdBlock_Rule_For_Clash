@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-31 09:47:24
+# Generated on: 2026-08-31 15:45:17
 # Generated AdBlock rules
 # Total entries: 503958
 
@@ -20781,7 +20781,6 @@ payload:
 - 'ad-kraft.aloe-tallow.com'
 - 'ad-log-upload-os.hoyoverse.com'
 - 'ad-log.dable.io'
-- 'ad-log.wemakeprice.com'
 - 'ad-server.linkvertise.com'
 - 'ad-serving.iocreate.cloud'
 - 'ad-shield.cc'
@@ -25450,7 +25449,6 @@ payload:
 - 'analytics-mia-nfl.yinzcam.com'
 - 'analytics-min-mls.yinzcam.com'
 - 'analytics-min-nba.yinzcam.com'
-- 'analytics-mkt.wemakeprice.com'
 - 'analytics-msg-venues.yinzcam.com'
 - 'analytics-nfl-5.yinzcam.com'
 - 'analytics-njd-nhl.yinzcam.com'
@@ -405593,6 +405591,7 @@ payload:
 - 'paul-mellon-uk.tt.omtrdc.net'
 - 'paulosabbanelliapi.expressacustica.com.br'
 - 'paupud.meillandrichardier.com'
+- 'pausible.flaq.ai'
 - 'pavlosmelas.xhamsterlive.info'
 - 'pavoboxapp.com'
 - 'pawadominicana.tt.omtrdc.net'
@@ -447516,6 +447515,7 @@ payload:
 - 'stats.fishersci.it'
 - 'stats.flightformation.com'
 - 'stats.flightsphere.com'
+- 'stats.flixcloud.cc'
 - 'stats.fluorescent.co'
 - 'stats.folienmarkt.de'
 - 'stats.footwork.co'
@@ -447969,6 +447969,7 @@ payload:
 - 'stats.realestate.cv.ua'
 - 'stats.realestate.kyiv.ua'
 - 'stats.realestate.uz.ua'
+- 'stats.reanime.to'
 - 'stats.redditmedia.com'
 - 'stats.referralhero.com'
 - 'stats.refurbished-handys.de'
@@ -483269,7 +483270,6 @@ payload:
 - 'wlmwkz.adrop.sk'
 - 'wlog.ifdo.co.kr'
 - 'wlog.ksapisrv.com'
-- 'wlog.tmon.co.kr'
 - 'wlp3.aegon.es'
 - 'wlpdfo.choicefurnituresuperstore.co.uk'
 - 'wlptux.habitaclia.com'
