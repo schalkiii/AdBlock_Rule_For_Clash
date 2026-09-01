@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-01 05:02:42
+# Generated on: 2026-09-01 08:37:55
 # Generated AdBlock rules
-# Total entries: 503961
+# Total entries: 503960
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -73931,7 +73931,6 @@ payload:
 - 'dc608237a3.d97e3715f9.com'
 - 'dc7fe69926.99f7022009.com'
 - 'dc8d554c41.99ddb6ad48.com'
-- 'dc8xl0ndzn2cb.cloudfront.net'
 - 'dca-ems.hubhubhub.name'
 - 'dcb.dannyclosetboutique.com.br'
 - 'dcb33ef688.6e7e9acff5.com'
@@ -348624,7 +348623,6 @@ payload:
 - 'iwnnpubgvimzwyr-c.adkclicker.fr'
 - 'iwpkhm.re-store.ru'
 - 'iwpneu.eneba.com'
-- 'iws2.io.naver.com'
 - 'iwtawq.priscaj.com'
 - 'iwwqqy.motorsweden.se'
 - 'ix.41v9m8nu42hm9l.cfd'
@@ -467403,6 +467401,7 @@ payload:
 - 'udzsgk.myclassico.com'
 - 'udzucw.haggar.com'
 - 'ue-adm6.matt.tt.omtrdc.net'
+- 'ue.a-bly.com'
 - 'ue.kicker.de'
 - 'ue.sc.tt.omtrdc.net'
 - 'ue1.accountdatastatusorigin.tt.omtrdc.net'
