@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-01 13:36:07
+# Generated on: 2026-09-01 18:23:44
 # Generated AdBlock rules
-# Total entries: 503958
+# Total entries: 503962
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -332195,6 +332195,7 @@ payload:
 - 'handelsblatt.met.vgwort.de'
 - 'handler.rgstats.com'
 - 'handmade.prettyserendipity.co.uk'
+- 'handskeeping.com'
 - 'handy.starmobile.de'
 - 'hanif.nasibasilk.com'
 - 'hannah.teamspotlite.com'
@@ -409616,6 +409617,7 @@ payload:
 - 'ptarmigan.q-free.com'
 - 'ptata.34heritage.com'
 - 'ptb.patarellobeach.com.br'
+- 'pteknvcm.com'
 - 'ptelj.loveshackfancy.com'
 - 'ptgxwo.toolstoday.com'
 - 'ptkjr.simplynootropics.com'
@@ -413574,6 +413576,7 @@ payload:
 - 'role-info.socialx.net.daraz.com'
 - 'roll.comdecor.eu'
 - 'rollbar.actonservice.com'
+- 'rollgosize.com'
 - 'rollout1.click.s11.sfmc-osl.com'
 - 'rolpenszimocca.com'
 - 'rolt7it2lhml5rxa.edge41.testandtarget.omniture.com'
@@ -425764,6 +425767,7 @@ payload:
 - 'sharepoint8s-prd.n-switch.net.daraz.com'
 - 'sharing.kptncook.com'
 - 'shark.rockyourlife.de'
+- 'sharkvidskr.com'
 - 'sharp.actonservice.com'
 - 'sharpmarketing.eu'
 - 'shazzat.prinush.com'
