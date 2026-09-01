@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-02 05:17:00
+# Generated on: 2026-09-02 07:20:01
 # Generated AdBlock rules
-# Total entries: 503965
+# Total entries: 503966
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -74538,6 +74538,7 @@ payload:
 - 'demandzoo.com'
 - 'demarini.mboxedge37-02.tt.omtrdc.net'
 - 'demark.dutraplasticos.com.br'
+- 'demdex.net'
 - 'demeter-tr-core-collect.trendyol.com'
 - 'demkc32bq01ah.cloudfront.net'
 - 'demo-car21c-f8.net.daraz.com'
