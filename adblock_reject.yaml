@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-02 18:01:00
+# Generated on: 2026-09-02 22:07:34
 # Generated AdBlock rules
-# Total entries: 503966
+# Total entries: 503965
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -347512,7 +347512,6 @@ payload:
 - 'ipcert-lib-oa-1.net.daraz.com'
 - 'ipcfgw.pieces.com'
 - 'ipchangelinknodeaction.tt.omtrdc.net'
-- 'ipcheck.blogsys.jp'
 - 'ipcheck.nautilus.tt.omtrdc.net'
 - 'ipcheck.tmgrup.com.tr'
 - 'ipcloud.tt-qe2.omtrdc.net'
