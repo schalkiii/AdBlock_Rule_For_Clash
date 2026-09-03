@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-04 01:10:31
+# Generated on: 2026-09-04 03:52:15
 # Generated AdBlock rules
-# Total entries: 503972
+# Total entries: 503973
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -42053,6 +42053,7 @@ payload:
 - 'campingantiparos.eng.net.daraz.com'
 - 'campingcar-taka.goaserv.com'
 - 'campingdebrouel.tt.omtrdc.net'
+- 'campingfinishvow.com'
 - 'campingparadis.net.daraz.com'
 - 'campingworld.centurylink.tt.omtrdc.net'
 - 'campingworldinc.tt.hb-fa-dev.tt.omtrdc.net'
