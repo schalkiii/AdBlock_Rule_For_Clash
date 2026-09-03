@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-03 12:58:07
+# Generated on: 2026-09-03 17:20:20
 # Generated AdBlock rules
-# Total entries: 503971
+# Total entries: 503972
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -24025,6 +24025,7 @@ payload:
 - 'agpower.tupimob.com'
 - 'agrafa.openapp.link'
 - 'agrak.mojo.shop'
+- 'agrau.aii.sh'
 - 'agrep.reneecosmetics.in'
 - 'agri.webspecmail.com'
 - 'agribusiness.intelligence.informa.com'
