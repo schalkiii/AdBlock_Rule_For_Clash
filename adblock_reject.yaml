@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-03 08:37:14
+# Generated on: 2026-09-03 12:58:07
 # Generated AdBlock rules
-# Total entries: 503970
+# Total entries: 503971
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -36779,6 +36779,7 @@ payload:
 - 'betalib.lib-ln-1.net.daraz.com'
 - 'betalib.partner-alpha.net.daraz.com'
 - 'betalibgithub.a.ns.emailvision.net.daraz.com'
+- 'betamountwo.com'
 - 'betanewsgroups-ln-2.net.daraz.com'
 - 'betans1.viviotech.net.daraz.com'
 - 'betapi-docs-ns2.twtelecom.net.daraz.com'
@@ -389919,6 +389920,7 @@ payload:
 - 'miexgq.forevernew.co.nz'
 - 'migineg.com'
 - 'migratelobalid3.click.s11.sfmc-osl.com'
+- 'migstat.com'
 - 'miguel.links.rosieapp.com'
 - 'mijn-draganddropobjects.net.daraz.com'
 - 'mijnappsalt.share.ntv.io'
@@ -463404,7 +463406,6 @@ payload:
 - 'trecmsvisionnr-oa-1.net.daraz.com'
 - 'trecobit.citizensbank.tt.omtrdc.net'
 - 'trecommercefficcsr11.net.daraz.com'
-- 'treconeanalytics.com'
 - 'tredir.go.com3717259.notifysrv.com'
 - 'tredirainredir-oa-1.net.daraz.com'
 - 'tredircar40ial-ns1.twtelecom.net.daraz.com'
