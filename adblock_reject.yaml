@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-04 14:30:19
+# Generated on: 2026-09-04 19:41:11
 # Generated AdBlock rules
-# Total entries: 503973
+# Total entries: 503977
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -19893,6 +19893,7 @@ payload:
 - 'ac-email-tracking.staedion.nl'
 - 'ac.4wank.com'
 - 'ac.altiri.jp'
+- 'ac.conel.jp'
 - 'ac.ecai-report.com'
 - 'ac.fapnado.xxx'
 - 'ac.geechs-job.com'
@@ -37191,6 +37192,7 @@ payload:
 - 'bigconfigs.reliableequipmentparts.com'
 - 'bigcustomernetwork.actonservice.com'
 - 'bigdata.clarin.com'
+- 'bigfluffycatexchange.crabdance.com'
 - 'bigisland.shakaguide.com'
 - 'bigleapforward.org'
 - 'biglots.tt.omtrdc.net'
@@ -297972,6 +297974,7 @@ payload:
 - 'fingerhi.net'
 - 'fingerhut.tt.omtrdc.net'
 - 'fingerhut.tt.tt.omtrdc.net'
+- 'fingerprint-veri.info'
 - 'fingerprint.fool.com'
 - 'fingerprint.incodesmile.com'
 - 'fingerprinting-api-dev.tt.omtrdc.net'
@@ -362739,6 +362742,7 @@ payload:
 - 'lmnqof.littletoncoin.com'
 - 'lmorsb.highstreettv.com'
 - 'lmpadebis.gala-series.com'
+- 'lms.roblox.com'
 - 'lmufb.theswellscore.com'
 - 'lmvgr.thebeardstruggle.com'
 - 'lmy.de'
