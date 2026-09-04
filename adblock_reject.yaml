@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-04 19:41:11
+# Generated on: 2026-09-04 23:06:18
 # Generated AdBlock rules
-# Total entries: 503977
+# Total entries: 503979
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -460455,6 +460455,7 @@ payload:
 - 'tracker.atlassian.atlassian-app.tt.omtrdc.net'
 - 'tracker.azet.sk'
 - 'tracker.bellsouth.administrator.net.daraz.com'
+- 'tracker.bigl.ua'
 - 'tracker.bkk24.de'
 - 'tracker.boredpanda.com'
 - 'tracker.broker.tt.omtrdc.net'
@@ -461874,6 +461875,7 @@ payload:
 - 'tracking.vismasoftware.no'
 - 'tracking.vitalant.org'
 - 'tracking.vitori.de'
+- 'tracking.vivareal.com.br'
 - 'tracking.vivay.be'
 - 'tracking.viviotech.net.daraz.com'
 - 'tracking.vma-test.tt.omtrdc.net'
