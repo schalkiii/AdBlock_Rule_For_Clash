@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-07 20:58:41
+# Generated on: 2026-09-08 02:02:35
 # Generated AdBlock rules
-# Total entries: 503986
+# Total entries: 503987
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -36368,6 +36368,7 @@ payload:
 - 'ben.crxmouse.com'
 - 'benchcrafted.stage.naruspot.net.daraz.com'
 - 'benchcraftedstagingbollyshare.net.daraz.com'
+- 'bend.frizzsince.com'
 - 'beneficios.davivienda.hn'
 - 'beneficios.davivienda.sv'
 - 'benefit.mp4teluguwap.net.daraz.com'
