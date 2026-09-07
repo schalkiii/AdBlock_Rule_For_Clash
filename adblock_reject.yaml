@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-07 09:35:51
+# Generated on: 2026-09-07 14:36:41
 # Generated AdBlock rules
-# Total entries: 503981
+# Total entries: 503983
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -15831,6 +15831,7 @@ payload:
 - 'a2.arabsex1.com'
 - 'a2.avomeen.com'
 - 'a2.borgentech.com'
+- 'a2.cineflix.st'
 - 'a2.hotpornfile.org'
 - 'a2.slotxbros.com'
 - 'a20000.actonservice.com'
@@ -34127,6 +34128,7 @@ payload:
 - 'badreahstagehasani.net.daraz.com'
 - 'badschmiedeberg.net.daraz.com'
 - 'badwolf.open-election-compass.com'
+- 'badylenicesist.com'
 - 'baeel.viovet.co.uk'
 - 'baexia.smartbuyglasses.com.hk'
 - 'bafem.juiceplus.com'
