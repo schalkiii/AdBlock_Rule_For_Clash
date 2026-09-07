@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-07 14:36:41
+# Generated on: 2026-09-07 20:58:41
 # Generated AdBlock rules
-# Total entries: 503983
+# Total entries: 503986
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -390229,6 +390229,7 @@ payload:
 - 'mivsptest2t.tt.omtrdc.net'
 - 'miw.mein-weinschrank.de'
 - 'miw.mijn-wijnkoelkast.nl'
+- 'miwxoqcbiswmx.com'
 - 'mix-adm.gslb.tt.omtrdc.net'
 - 'mix-bike.tt.omtrdc.net'
 - 'mix-bud.tt.omtrdc.net'
@@ -431875,6 +431876,7 @@ payload:
 - 'soglkuki.prolexgroup.ru'
 - 'sogtm.academy.org.il'
 - 'sogtm.colman.ac.il'
+- 'sogu.tripster.ru'
 - 'sohan.sodaibari.com'
 - 'sohiuc.sheego.de'
 - 'soimnu.nivki-park.com.ua'
@@ -452696,6 +452698,7 @@ payload:
 - 'tcv.camping-vogelsang.com'
 - 'tcvaj.revive-eo.com'
 - 'tcvhz.joahbrown.com'
+- 'tcwvvosfnvk.com'
 - 'tcx-beacon.docs.aws.dev'
 - 'tcxrdt.trendhim.be'
 - 'tczulp.econea.cz'
