@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-08 14:30:13
+# Generated on: 2026-09-08 19:41:15
 # Generated AdBlock rules
-# Total entries: 503987
+# Total entries: 503992
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -32092,7 +32092,6 @@ payload:
 - 'assets9-sjc12-dr01.net.daraz.com'
 - 'assetsanywhere.links.rosieapp.com'
 - 'assetscloudfrontcar31.net.daraz.com'
-- 'assetsconfigcdn.org'
 - 'assetspartner.net.daraz.com'
 - 'assetssummer.net.daraz.com'
 - 'asshhenticate.net.daraz.com'
@@ -398741,6 +398740,7 @@ payload:
 - 'ofovp.mypeakchallenge.com'
 - 'ofpeg.trywellbe.de'
 - 'ofqkbk.proclipusa.com'
+- 'ofroztlmyo.in'
 - 'ofvosb.jumbo.com.tr'
 - 'ofwdvh.suntransfers.com'
 - 'ofxmryjd.seller.walmart.com'
@@ -400713,6 +400713,7 @@ payload:
 - 'orpheopolisetmoi.orpheopolis.fr'
 - 'orpheus-it.actonservice.com'
 - 'orqhz.alexandrebirman.com'
+- 'orsdls.di.runestone.samsung.com'
 - 'orsds.ziavia.com'
 - 'orsmfg.notino.de'
 - 'orthoclinical.tt.omtrdc.net'
@@ -408087,6 +408088,7 @@ payload:
 - 'portal.xhlive.org'
 - 'portalfluently.com'
 - 'portfoliotwtelecom.azure.net.daraz.com'
+- 'portiasaigon.com'
 - 'portoseguro.tt.omtrdc.net'
 - 'portovelho26.ondec.com.br'
 - 'portugalsko.net.daraz.com'
@@ -414107,6 +414109,7 @@ payload:
 - 'rta.dailymail.co.uk'
 - 'rta.redhomestore.com'
 - 'rta2.metro.co.uk'
+- 'rta2.newscientist.com'
 - 'rta2.newzit.com'
 - 'rtag.farmers.com'
 - 'rtapi.abbi.io'
@@ -425794,6 +425797,7 @@ payload:
 - 'sharpmarketing.eu'
 - 'shazzat.prinush.com'
 - 'shbtjz.directours.com'
+- 'shealth-analytics-api.samsunghealth.com'
 - 'sheba.dhakapharmachy.com'
 - 'sheep.littleboat.digital'
 - 'sheep.macka.com.au'
@@ -469411,6 +469415,7 @@ payload:
 - 'urcaq.eberjey.com'
 - 'urdam.hillcrestmemorialgarden.com'
 - 'urdap.forever21.com'
+- 'ureca.samsungapps.com'
 - 'urehgr.halekulani.com'
 - 'ureoaw.netthandelen.no'
 - 'ureq4.tt.omtrdc.net'
