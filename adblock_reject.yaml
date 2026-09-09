@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-09 23:23:35
+# Generated on: 2026-09-10 02:49:32
 # Generated AdBlock rules
-# Total entries: 503996
+# Total entries: 503998
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -67196,6 +67196,7 @@ payload:
 - 'cygnus-siw.tt.omtrdc.net'
 - 'cygwin.goasrv.com'
 - 'cyhz131.goasrv.com'
+- 'cyicbayqmbz.com'
 - 'cylance.aol.tt.omtrdc.net'
 - 'cylance.tt.omtrdc.net'
 - 'cylindertag.adminhosting.accountart-of-falco.tt-qe-ci1.omtrdc.net'
@@ -406997,6 +406998,7 @@ payload:
 - 'pionline.com.d1.sc.tt.omtrdc.net'
 - 'pionmj.companyshop24.de'
 - 'piotner.net.daraz.com'
+- 'piousshiners.com'
 - 'pip-pc.adminlb.accountfcanr.tt.omtrdc.net'
 - 'pipa.topvacuumrobot.com'
 - 'pipe-collect.ebu.io'
