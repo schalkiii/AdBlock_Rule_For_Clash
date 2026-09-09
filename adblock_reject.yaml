@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-09 14:36:59
+# Generated on: 2026-09-09 19:47:57
 # Generated AdBlock rules
-# Total entries: 503993
+# Total entries: 503996
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -58516,6 +58516,7 @@ payload:
 - 'cloudsvc-car10ppr-is-1-2.net.daraz.com'
 - 'cloudtutorialspp-ctutorialsr40.net.daraz.com'
 - 'cloudvirga.actonservice.com'
+- 'cloudx.io'
 - 'cloupayfrontcar31.net.daraz.com'
 - 'cloupgsqlfrontcar31.net.daraz.com'
 - 'cloupre-connectedapp-car10.net.daraz.com'
@@ -362779,6 +362780,7 @@ payload:
 - 'lndata.labor.md.gov'
 - 'lnday.sinclair.edu'
 - 'lndpy.com'
+- 'lndrsapi.com'
 - 'lnezkw.iturbo.fr'
 - 'lnfqk.showerenvy.com'
 - 'lng.xiaohongshu.com'
@@ -407449,6 +407451,7 @@ payload:
 - 'pla-d365-dev7f1f38a7a23f4de04devaossoap.tt-stage3.omtrdc.net'
 - 'pla-tk.flipkart.net'
 - 'pla.pearlinsurance.com'
+- 'pla.uqload.vc'
 - 'pla.wigglepixel.nl'
 - 'placchigiulia.tt.omtrdc.net'
 - 'place-riu.tt.omtrdc.net'
