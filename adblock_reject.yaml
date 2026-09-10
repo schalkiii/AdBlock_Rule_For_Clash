@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-10 13:59:26
+# Generated on: 2026-09-10 18:29:39
 # Generated AdBlock rules
-# Total entries: 503999
+# Total entries: 504003
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -41917,6 +41917,7 @@ payload:
 - 'camns.stagingvision.net.daraz.com'
 - 'camp.camping.se'
 - 'camp.campingkeyeurope.se'
+- 'camp.inc.com'
 - 'camp.p-city.com'
 - 'campagnes.hollandmediacombinatie.nl'
 - 'campaign-direct.eisai.jp'
@@ -291851,6 +291852,7 @@ payload:
 - 'events.pgsqlr-oa-1.net.daraz.com'
 - 'events.pldtenterprise.com'
 - 'events.plumbv.com'
+- 'events.plutus.ninja'
 - 'events.pop3r-oa-1.net.daraz.com'
 - 'events.popinfo.jp'
 - 'events.prd.api.discomax.com'
@@ -412596,6 +412598,7 @@ payload:
 - 'request.idangels.org'
 - 'request.mitsui-chintai.co.jp'
 - 'request.verisign.com'
+- 'rer4.com'
 - 'rerjk.bugmd.com'
 - 'rertrc.abc-mart.net'
 - 'reryn3ce.com'
@@ -502012,6 +502015,7 @@ payload:
 - 'zo7eijbeo2k.2o7fn6gvj2c6l971mhx88okj8x5.cyou'
 - 'zobgqg.sirobari.jp'
 - 'zobtmj.kiddies-kingdom.com'
+- 'zodalt.com'
 - 'zodhqv.peterson.fr'
 - 'zodiac32.tt.omtrdc.net'
 - 'zoerxk.belifmeetsvdl.com'
