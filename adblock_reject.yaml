@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-10 22:37:00
+# Generated on: 2026-09-11 01:50:02
 # Generated AdBlock rules
-# Total entries: 504005
+# Total entries: 504006
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -298245,6 +298245,7 @@ payload:
 - 'fitconcert02.tt.omtrdc.net'
 - 'fitibeats-ss.checkoutera.com'
 - 'fitibeats-ss.offeroshop.com'
+- 'fitlivelywhup.com'
 - 'fitness.goasrv.com'
 - 'fitnesss.tt.omtrdc.net'
 - 'fitnessuntukpemulazstageccgenerator.net.daraz.com'
