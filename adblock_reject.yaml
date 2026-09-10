@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-10 18:29:39
+# Generated on: 2026-09-10 22:37:00
 # Generated AdBlock rules
-# Total entries: 504003
+# Total entries: 504005
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -79290,6 +79290,7 @@ payload:
 - 'distribuidoraliverpo.tt.omtrdc.net'
 - 'distribution.provenpharma.com'
 - 'distributiontomatoes.com'
+- 'disutgh7q0ncc.cloudfront.net'
 - 'dit.whatsapp.net'
 - 'dit.whatsapp.net.iberostar.com'
 - 'ditoonjoaabledntoonjoa.emailvitoonjoaion.net.daraz.com'
@@ -468496,6 +468497,7 @@ payload:
 - 'unsw-stage64-publish.tt.omtrdc.net'
 - 'untangle1.net.daraz.com'
 - 'unternehmen-stg.tt.omtrdc.net'
+- 'untimely-hello.com'
 - 'untimely-proof.pro'
 - 'untmm.virtuepb.com'
 - 'untrhhc.veneera.co.uk'
