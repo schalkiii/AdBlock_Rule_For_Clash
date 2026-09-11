@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-11 17:42:48
+# Generated on: 2026-09-11 21:55:00
 # Generated AdBlock rules
-# Total entries: 504008
+# Total entries: 504015
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -20912,6 +20912,7 @@ payload:
 - 'ad1.tone.ne.jp'
 - 'ad1.udn.com'
 - 'ad2.avadacom.com'
+- 'ad2.fivecdm.com'
 - 'ad2.freeasianmovies.cam'
 - 'ad2.udn.com'
 - 'ad209-car44-web-wwww0node-authentication.net.daraz.com'
@@ -32249,6 +32250,7 @@ payload:
 - 'atc.rockmaster.com'
 - 'atc.trentinobusinessrun.it'
 - 'atcogroup.tt.omtrdc.net'
+- 'atddmn.com'
 - 'atelier.atelierxterieur.com'
 - 'ateveq.street-beat.ru'
 - 'atfcj.buypetals.com'
@@ -37161,6 +37163,7 @@ payload:
 - 'bicyclingtesting.share.ntv.io'
 - 'bicyclingvcyvca431c5nqzco.share.ntv.io'
 - 'bid-algorix.com'
+- 'bid.ctv.house'
 - 'bid.mbidtg.com'
 - 'bid.onclcktg.com'
 - 'bidbpo.dr-10.com'
@@ -306312,6 +306315,7 @@ payload:
 - 'get.yugengamers.com'
 - 'get.zpbettertogether.com'
 - 'get.zvrs.com'
+- 'getads.ru'
 - 'getae29-sjc12-dr01.net.daraz.com'
 - 'getaliveblue-ss.olladeals.com'
 - 'getapp.eltiempo.es'
@@ -375800,6 +375804,7 @@ payload:
 - 'log.bloombergfortune.share.ntv.io'
 - 'log.bunjang.co.kr'
 - 'log.businessprofile-reserve.tt.omtrdc.net'
+- 'log.calomeal.com'
 - 'log.checkmyfile.co.uk'
 - 'log.checkmyfile.com'
 - 'log.classting.com'
@@ -393117,6 +393122,7 @@ payload:
 - 'mycountymarket-bbanywhere.links.rosieapp.com'
 - 'mydario.actonservice.com'
 - 'mydas.mobi'
+- 'mydatascript.bubbleup.com'
 - 'mydccu.tt.omtrdc.net'
 - 'mydeze.croisierenet.com'
 - 'mydomainbest.com'
@@ -397998,6 +398004,7 @@ payload:
 - 'nyetae.eyeclinic-tokyo.jp'
 - 'nyfa-images.reviveservers.com'
 - 'nyfpt.cuddleandkind.com'
+- 'nyhizyjybawozi.com'
 - 'nyhzvh.dickhannahhonda.com'
 - 'nyig8qk5pwokhdx-p.adktrack30.xyz'
 - 'nym4tbher9qvldl-p.adktrack30.xyz'
