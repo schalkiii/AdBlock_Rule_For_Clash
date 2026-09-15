@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-15 08:02:35
+# Generated on: 2026-09-15 12:55:45
 # Generated AdBlock rules
-# Total entries: 504033
+# Total entries: 504035
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -78318,6 +78318,7 @@ payload:
 - 'dicesuki.goasrv.com'
 - 'dicetek.makemytrip.tt.omtrdc.net'
 - 'dichvuonline.goasrv.com'
+- 'diciestchokybuffi.cyou'
 - 'dicontent.ckapis.com'
 - 'dicsr.jadedldn.com'
 - 'dictionarycomllc.tt.omtrdc.net'
@@ -408529,6 +408530,7 @@ payload:
 - 'prebid.scope3.com'
 - 'prebid.tapatalk.com'
 - 'precisionmed.novanta.com'
+- 'precoxwurzels.qpon'
 - 'predataclient.b-cdn.net'
 - 'preference.americafirst.com'
 - 'preference.marketing.nascar.com'
