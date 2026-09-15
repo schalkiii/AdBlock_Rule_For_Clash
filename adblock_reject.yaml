@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-15 12:55:45
+# Generated on: 2026-09-15 17:40:15
 # Generated AdBlock rules
-# Total entries: 504035
+# Total entries: 504037
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -303576,6 +303576,7 @@ payload:
 - 'gact3f1wwensc84a.tt.omtrdc.net'
 - 'gada4d2.tt.omtrdc.net'
 - 'gadaniya.goaserv.com'
+- 'gadata.motorpresse.de'
 - 'gadcdphvr.ccc.tt.omtrdc.net'
 - 'gaddevoca.ccs.tt.omtrdc.net'
 - 'gaddia-shi-0.tt.omtrdc.net'
@@ -418783,6 +418784,7 @@ payload:
 - 'serve.mercyships.org'
 - 'serve.newsnehafurniture.com'
 - 'serve.ogrupoduo.com.br'
+- 'serve.omr.com'
 - 'serve.poolbots.com'
 - 'serve.poolexpress.com'
 - 'serve.poolpad.com'
