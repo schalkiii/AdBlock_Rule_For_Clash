@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-16 09:51:29
+# Generated on: 2026-09-16 14:53:55
 # Generated AdBlock rules
-# Total entries: 504039
+# Total entries: 504040
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -36801,6 +36801,7 @@ payload:
 - 'betelugukingav.net.daraz.com'
 - 'betestlibndpulchmedotcomnautilus.net.daraz.com'
 - 'betmvx.b-europe.com'
+- 'betorytrackers.com'
 - 'betrad.com'
 - 'betsandbox-emailvision-intersandbox-emailvisionctionext.net.daraz.com'
 - 'betsonsport.ru'
