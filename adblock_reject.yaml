@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-16 14:53:55
+# Generated on: 2026-09-16 20:15:31
 # Generated AdBlock rules
-# Total entries: 504040
+# Total entries: 504041
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -26797,6 +26797,7 @@ payload:
 - 'analyticsresults.smartexperts.de'
 - 'analyticsresults.zahltsichausbildung.de'
 - 'analyticss.miraiclinical.com'
+- 'analyticssec.overwolf.com'
 - 'analyticsssl.forcepoint.com'
 - 'analyticsstp.simcorner.com'
 - 'analyticstest.amica.com'
@@ -64505,6 +64506,7 @@ payload:
 - 'counter.tldw.me'
 - 'counter.top.ge'
 - 'counter.ukr.net'
+- 'counter.wargamings.net'
 - 'counter.web.money'
 - 'counter.websitevoice.com'
 - 'counter.zerohedge.com'
@@ -73408,7 +73410,6 @@ payload:
 - 'data.titancert.test.ajo.adobe.com'
 - 'data.titancert1.test.ajo.adobe.com'
 - 'data.tk4express.com.br'
-- 'data.tm-awx.com'
 - 'data.tmail.northeast.aaa.com'
 - 'data.todoalicante.es'
 - 'data.tomferry.com'
