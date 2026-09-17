@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-17 13:33:06
+# Generated on: 2026-09-17 18:22:05
 # Generated AdBlock rules
-# Total entries: 504041
+# Total entries: 504042
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -39478,6 +39478,7 @@ payload:
 - 'brotherinternational.tt.omtrdc.net'
 - 'brownies.bobbyseamoss.com'
 - 'browser-fp.production.linktr.ee'
+- 'browser-intake-datadoghq.eu'
 - 'browser.events.data.msn.cn'
 - 'browser.events.data.msn.com'
 - 'browser.pipe.aria.microsoft.com'
@@ -376456,7 +376457,6 @@ payload:
 - 'logs.adplay.ru'
 - 'logs.amap.com'
 - 'logs.appsource.microsoft.com'
-- 'logs.browser-intake-datadoghq.eu'
 - 'logs.chatboost-cv.algoage.co.jp'
 - 'logs.classdojo.com'
 - 'logs.datadoghq.com'
@@ -400862,6 +400862,7 @@ payload:
 - 'othvwz.thelittlegreenbag.be'
 - 'otioqs.srcasino.es'
 - 'otkhyc.bueromarkt-ag.de'
+- 'otl.minefun.io'
 - 'otlhn.fentybeauty.com'
 - 'otlsb.simplynootropics.com'
 - 'otm.otraderquemultiplica.com.br'
