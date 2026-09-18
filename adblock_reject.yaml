@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-18 21:36:56
+# Generated on: 2026-09-19 01:10:46
 # Generated AdBlock rules
-# Total entries: 504046
+# Total entries: 504047
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -499308,6 +499308,7 @@ payload:
 - 'year.celcomaxiata.tt.omtrdc.net'
 - 'yearbook4goiemployees.go-static.info'
 - 'yearbook4goiemployees.goasrv.com'
+- 'yearlyartist.com'
 - 'yeaslbazmwh2cf05.myavlive.com'
 - 'yeasmin.myavlive.com'
 - 'yeast-r-oa-2nceast-r-oa-2ncook.system.net.daraz.com'
