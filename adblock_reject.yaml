@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-18 12:52:03
+# Generated on: 2026-09-18 17:15:52
 # Generated AdBlock rules
-# Total entries: 504042
+# Total entries: 504044
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -21403,6 +21403,7 @@ payload:
 - 'adm.10-marketing.net.daraz.com'
 - 'adm.11ticket.alt.share.ntv.io'
 - 'adm.3arketing.net.daraz.com'
+- 'adm.3labs.it'
 - 'adm.adminstrumentengineering.com.au'
 - 'adm.aprilpatner.net.daraz.com'
 - 'adm.arotastudio.com.br'
@@ -89830,6 +89831,7 @@ payload:
 - 'dtadash.tt-stage-ci1.omtrdc.net'
 - 'dtadrz-reg.adminfo-vs.accountart-of-falco.tt-qe-ci1.omtrdc.net'
 - 'dtag.charter.tt.omtrdc.net'
+- 'dtam.thrive.today'
 - 'dtap.stancharttw.tt.omtrdc.net'
 - 'dtappub.tt.omtrdc.net'
 - 'dtasrvr.com'
