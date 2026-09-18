@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-18 17:15:52
+# Generated on: 2026-09-18 21:36:56
 # Generated AdBlock rules
-# Total entries: 504044
+# Total entries: 504046
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -324332,6 +324332,7 @@ payload:
 - 'gray.kpmgllp.tt.omtrdc.net'
 - 'gray.mboxedge35-alb.tt.omtrdc.net'
 - 'gray.rw.net.rewe.de'
+- 'gray.unlikebuck.com'
 - 'gray111.tt.omtrdc.net'
 - 'graycity312.goasrv.com'
 - 'graydar.vip.tt.omtrdc.net'
@@ -448171,6 +448172,7 @@ payload:
 - 'stats.starfish.team'
 - 'stats.steepandcheap.com'
 - 'stats.steirerjobs.at'
+- 'stats.stellar.rip'
 - 'stats.stephlow.audio'
 - 'stats.storify.com'
 - 'stats.strawberry.rocks'
