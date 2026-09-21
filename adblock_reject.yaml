@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-21 09:33:10
+# Generated on: 2026-09-21 15:01:29
 # Generated AdBlock rules
-# Total entries: 504047
+# Total entries: 504051
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -334905,6 +334905,7 @@ payload:
 - 'hongleongassurance.tt.omtrdc.net'
 - 'honor.omrf.org'
 - 'honorhealth.hrm.healthgrades.com'
+- 'hoof.absentwhack.com'
 - 'hoojts.demmelhuber.net'
 - 'hooks.geralbet.bet.br'
 - 'hooks.lider.bet.br'
@@ -393609,6 +393610,7 @@ payload:
 - 'n.lexusfinancial.com'
 - 'n.lolaluna.com'
 - 'n.netquote.com'
+- 'n.nstbrowser.io'
 - 'n.qwinsta.se'
 - 'n.russ-porno.net'
 - 'n.stcatharinesstandard.ca'
@@ -415127,6 +415129,7 @@ payload:
 - 'rubicon.wellsfargo.com'
 - 'rubolite.ems-dental.com'
 - 'rudder-server-prd.arena.im'
+- 'rudimentarytheoreticalrome.com'
 - 'rudr-events.joybird.com'
 - 'ruehg.dotcompliancegroup.com'
 - 'rugfrfji.win'
@@ -466340,6 +466343,7 @@ payload:
 - 'u.makro.pt'
 - 'u.metro.hu'
 - 'u.net.jumia.ci'
+- 'u.omgjav.com'
 - 'u.partner-pay.v1.net.daraz.com'
 - 'u.salony.com'
 - 'u.so.amersports.tt.omtrdc.net'
