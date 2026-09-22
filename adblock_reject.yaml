@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-22 14:17:57
+# Generated on: 2026-09-22 19:43:06
 # Generated AdBlock rules
-# Total entries: 504060
+# Total entries: 504062
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -60296,6 +60296,7 @@ payload:
 - 'colony.net.daraz.com'
 - 'colorimetriaobong.net.daraz.com'
 - 'colors.chamoji.com'
+- 'colossalteacher.com'
 - 'colossusssp.com'
 - 'colruytbusinessservi.tt.omtrdc.net'
 - 'colsex.com'
@@ -91769,6 +91770,7 @@ payload:
 - 'ead.meijer.tt.omtrdc.net'
 - 'ead.vpn.go.xham.live'
 - 'eadfs-rs.uscg.tt.omtrdc.net'
+- 'eadygos.com'
 - 'eafro.kissdonttell.com'
 - 'eagks.painfulpleasures.com'
 - 'eagle-insight.com'
