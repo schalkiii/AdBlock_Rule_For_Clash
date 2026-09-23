@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-23 17:59:57
+# Generated on: 2026-09-23 22:40:25
 # Generated AdBlock rules
-# Total entries: 504070
+# Total entries: 504071
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -349216,6 +349216,7 @@ payload:
 - 'jayshoesshop-ss.topashopo.com'
 - 'jaytk.ecosproutify.com'
 - 'jaytk.natureswellnessonline.com'
+- 'jazz.abovesave.com'
 - 'jb.r96h7g97rik8eq8ow.cfd'
 - 'jbanv.etrendygo.com'
 - 'jbbcvrkupaigy6f-p.adktrack30.xyz'
@@ -426060,6 +426061,7 @@ payload:
 - 'shpje7kq0we8leae.net.daraz.com'
 - 'shqmetrics.sony.com'
 - 'shqxt.prickstop.com'
+- 'shrillypants.com'
 - 'shrinkearn.com'
 - 'shs.youvegotthismath.com'
 - 'sht.sparkhormonetherapy.com'
@@ -449987,7 +449989,6 @@ payload:
 - 'swansonhealth-mmspdistribe.tt.omtrdc.net'
 - 'swaptrap.live'
 - 'swasc.homedepot.ca'
-- 'swasc.homedepot.com'
 - 'swasc.kaufland.bg'
 - 'swasc.kaufland.com'
 - 'swasc.kaufland.cz'
