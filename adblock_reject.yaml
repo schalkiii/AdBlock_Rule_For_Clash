@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-24 17:36:35
+# Generated on: 2026-09-24 22:23:32
 # Generated AdBlock rules
-# Total entries: 504072
+# Total entries: 504075
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -25725,6 +25725,7 @@ payload:
 - 'analytics.claudelog.com'
 - 'analytics.cleantech.training'
 - 'analytics.clic2buy.com'
+- 'analytics.click-or-die.ru'
 - 'analytics.clientify.net'
 - 'analytics.climatizer.cz'
 - 'analytics.climatizerplus.cz'
@@ -291499,6 +291500,7 @@ payload:
 - 'eventlog.inspsearchapi.com'
 - 'eventlog.jackpot.de'
 - 'eventlog.outbrain.com'
+- 'eventlog.setka.ru'
 - 'eventlogger.soundcloud.com'
 - 'evento.przemyslawmazur.tt.omtrdc.net'
 - 'eventomah.citizensbank.tt.omtrdc.net'
@@ -388687,6 +388689,7 @@ payload:
 - 'metrics.telenet.be'
 - 'metrics.telenor.se'
 - 'metrics.teletoon.com'
+- 'metrics.temptcdn.com'
 - 'metrics.termofit.com.br'
 - 'metrics.terra-saar.com'
 - 'metrics.tescobank.com'
