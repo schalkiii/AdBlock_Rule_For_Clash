@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-24 12:51:55
+# Generated on: 2026-09-24 17:36:35
 # Generated AdBlock rules
 # Total entries: 504072
 
@@ -350913,7 +350913,7 @@ payload:
 - 'justapinchtunnel.share.ntv.io'
 - 'justapinchvpn.share.ntv.io'
 - 'justapinchw3.share.ntv.io'
-- 'justice.maybeoneday.ch'
+- 'justice.hls.lol'
 - 'justice.tt.omtrdc.net'
 - 'justicensw.tt.omtrdc.net'
 - 'justid.io'
