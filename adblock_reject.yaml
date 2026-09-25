@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-25 12:58:51
+# Generated on: 2026-09-25 17:58:04
 # Generated AdBlock rules
-# Total entries: 504076
+# Total entries: 504082
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -29892,6 +29892,7 @@ payload:
 - 'app.bushnell.org'
 - 'app.butterflymx.com'
 - 'app.bws.com.au'
+- 'app.bxapi.de'
 - 'app.byjus.com'
 - 'app.byutickets.com'
 - 'app.cabmyride.com'
@@ -74553,6 +74554,7 @@ payload:
 - 'delivery.securlab.it'
 - 'delivery.senvangvn.com'
 - 'delivery.sexyxxx.biz'
+- 'delivery.viewsense.ai'
 - 'dell.compellent.com'
 - 'delltechnologies.tt.omtrdc.net'
 - 'delmarvanowmmspdistribe.tt.omtrdc.net'
@@ -294223,6 +294225,7 @@ payload:
 - 'fairway.golfballplanet.com'
 - 'fairwaymarket-whitelabel.links.rosieapp.com'
 - 'fairy.wfairyg.com'
+- 'fairycarboys.qpon'
 - 'faithfulcounseling.axsgroup.tt.omtrdc.net'
 - 'faithinthenews-tastingtable.share.ntv.io'
 - 'faithinthenews.administrator.share.ntv.io'
@@ -387838,6 +387841,7 @@ payload:
 - 'metrics.lexusofwatertown.com'
 - 'metrics.lexusofwayzata.com'
 - 'metrics.lexussantamonicamobile.com'
+- 'metrics.li'
 - 'metrics.lichthallemaag.ch'
 - 'metrics.life.com'
 - 'metrics.lifetime.life'
@@ -395412,6 +395416,7 @@ payload:
 - 'niavz.monstersteamer.net'
 - 'nice.theperryai.com'
 - 'nice.tranny.one'
+- 'nicelymodulo.com'
 - 'nicequest.com'
 - 'nick.flexed-foods.com'
 - 'nickhel.com'
@@ -414826,6 +414831,7 @@ payload:
 - 'rtb.traffic-gold.com'
 - 'rtb.trafficfactory.com'
 - 'rtb.videonow.ru'
+- 'rtb.viewsense.ai'
 - 'rtb.vokut.com'
 - 'rtb.voltaxam.com'
 - 'rtb2-apac.affinity.net'
