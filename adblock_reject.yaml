@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-25 17:58:04
+# Generated on: 2026-09-25 22:54:12
 # Generated AdBlock rules
-# Total entries: 504082
+# Total entries: 504084
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -375609,6 +375609,7 @@ payload:
 - 'loan.ftlfinance.com'
 - 'loans.vitaslebanon.com'
 - 'loansales.cbre.com'
+- 'lobe.scv.public.sse-prod-eks-euw1.futureplc.engineering'
 - 'lobhn.jacksonandperkins.com'
 - 'loblaws-market.links.rosieapp.com'
 - 'loblawsinc.tt.omtrdc.net'
@@ -403832,6 +403833,7 @@ payload:
 - 'palaios.dept.tt.omtrdc.net'
 - 'palantir-orpb.net.daraz.com'
 - 'palantir0.all.tt.omtrdc.net'
+- 'palateonce.com'
 - 'palatine.stage-mybooster.net.daraz.com'
 - 'palatine.staging-bejav.net.daraz.com'
 - 'palava-munin.net.daraz.com'
