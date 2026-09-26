@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-26 13:04:03
+# Generated on: 2026-09-26 17:53:04
 # Generated AdBlock rules
-# Total entries: 504084
+# Total entries: 504085
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -70943,6 +70943,7 @@ payload:
 - 'data-warehouse-connector.train-au.uhc.tt.omtrdc.net'
 - 'data-warehouse-connector.train-sg.volkswagenag.tt.omtrdc.net'
 - 'data-warehousing.goodyear.tt.omtrdc.net'
+- 'data-www-weaver.wanted.co.kr'
 - 'data.07eins.com'
 - 'data.123drogisterij.nl'
 - 'data.130combinacoes.com'
