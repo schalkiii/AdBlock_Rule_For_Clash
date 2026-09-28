@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-28 09:15:09
+# Generated on: 2026-09-28 14:55:00
 # Generated AdBlock rules
-# Total entries: 504085
+# Total entries: 504090
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -34947,6 +34947,7 @@ payload:
 - 'beagle.prod.tda.link'
 - 'beam.ecomms.beamconnect.com.au'
 - 'beam.remp.impresa.pt'
+- 'beam.telegram.hr'
 - 'beamav.unomaha.edu'
 - 'beanstalkmarketing.actonservice.com'
 - 'beanstock.com'
@@ -42005,6 +42006,7 @@ payload:
 - 'campaign.ssab.com'
 - 'campaign.stala.com'
 - 'campaign.tandemdiabetes.com'
+- 'campaign.telegram.hr'
 - 'campaign.viega.at'
 - 'campaign.viega.co.uk'
 - 'campaign.viega.cz'
@@ -75260,6 +75262,7 @@ payload:
 - 'desiruleztvapac-cfw-c2s-01-n6x026.net.daraz.com'
 - 'desjardins.tt.omtrdc.net'
 - 'desjardinsapiserver.tt.omtrdc.net'
+- 'desk.unlesscool.com'
 - 'desktopcorreoshowcase.net.mydays.de'
 - 'desktopsdc1soa.tt.omtrdc.net'
 - 'desuscripcion.phg.palladiumhotelgroup.com'
@@ -287816,6 +287819,7 @@ payload:
 - 'engine.acp.ns.emailvision.net.daraz.com'
 - 'engine.azong-staging.ns.emailvision.net.daraz.com'
 - 'engine.azure.net.daraz.com'
+- 'engine.camconnections.live'
 - 'engine.e-a.ns.emailvision.net.daraz.com'
 - 'engine.exactly.tt.omtrdc.net'
 - 'engine.gettopple.com'
@@ -460678,6 +460682,7 @@ payload:
 - 'tracker.tandem.citizensbank.tt.omtrdc.net'
 - 'tracker.tcgconsulting.net'
 - 'tracker.tehanu.tt.omtrdc.net'
+- 'tracker.telegram.hr'
 - 'tracker.testlib-ln-1.net.daraz.com'
 - 'tracker.thinkindot.com'
 - 'tracker.tianmu.mobi'
