@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-29 14:09:34
+# Generated on: 2026-09-29 20:53:51
 # Generated AdBlock rules
-# Total entries: 504093
+# Total entries: 504094
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -31592,6 +31592,7 @@ payload:
 - 'araguaina.ondec.com.br'
 - 'aramarkservices.tt.omtrdc.net'
 - 'aramarksports.tt.omtrdc.net'
+- 'araplhn.org'
 - 'arbiter.mail.quadspinner.com'
 - 'arc.mccancemethod.com'
 - 'arcadia.avadacom.com'
@@ -37182,6 +37183,7 @@ payload:
 - 'bid.ctv.house'
 - 'bid.mbidtg.com'
 - 'bid.onclcktg.com'
+- 'bid.pleasedmad.com'
 - 'bidbpo.dr-10.com'
 - 'bidder.a11.vega.aurion11.io'
 - 'bidder.doceree.com'
@@ -64483,7 +64485,6 @@ payload:
 - 'count.shein.com'
 - 'count.sibbo.net'
 - 'count.vidsrc.pro'
-- 'counter-mdpr.freetls.fastly.net'
 - 'counter.1gb.ru'
 - 'counter.24log.es'
 - 'counter.ajansspor.com'
