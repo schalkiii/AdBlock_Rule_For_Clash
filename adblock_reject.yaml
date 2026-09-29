@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-29 08:39:48
+# Generated on: 2026-09-29 14:09:34
 # Generated AdBlock rules
-# Total entries: 504089
+# Total entries: 504093
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -31615,6 +31615,7 @@ payload:
 - 'archived.thedrum.com'
 - 'arcspire.io'
 - 'arcus.fdm.pl'
+- 'ardance.org'
 - 'ardent.davidbryantlaw.com'
 - 'ardenuni.gus.global'
 - 'ardigital.anunciojuridico.com.br'
@@ -60721,6 +60722,7 @@ payload:
 - 'compilerworks.eset.tt.omtrdc.net'
 - 'complete2.tt.omtrdc.net'
 - 'compliance.coniferhealth.com'
+- 'compliance.datacamp.com'
 - 'compliance.govdocs.com'
 - 'compliance.mohegansuncasino.com'
 - 'complianceglobal.actonservice.com'
@@ -334481,6 +334483,7 @@ payload:
 - 'hits-secure.tt.omtrdc.net'
 - 'hits.dealer.com'
 - 'hits.guardian.co.uk'
+- 'hits.letras.mus.br'
 - 'hits.theguardian.com'
 - 'hits.top.lv'
 - 'hits.tt.omtrdc.net'
@@ -461131,6 +461134,7 @@ payload:
 - 'tracking.dokabathworks.com.br'
 - 'tracking.domapostas.bet'
 - 'tracking.doyoulovesalt.com'
+- 'tracking.dpmlol.com'
 - 'tracking.dpstampede.com'
 - 'tracking.drs.de'
 - 'tracking.drstefanopavani.com.br'
