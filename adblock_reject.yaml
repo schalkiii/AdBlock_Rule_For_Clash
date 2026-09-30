@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-30 15:18:54
+# Generated on: 2026-09-30 21:49:09
 # Generated AdBlock rules
-# Total entries: 504095
+# Total entries: 504097
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -417625,6 +417625,7 @@ payload:
 - 'scout.bergfreunde.nl'
 - 'scout.bergfreunde.no'
 - 'scout.bergfreunde.se'
+- 'scout.data.funkedigital.de'
 - 'scp.deltadentalwa.com'
 - 'scpzx.traxxas.com'
 - 'screen.buzzvil.com'
@@ -432681,6 +432682,7 @@ payload:
 - 'sp.courierpress.com'
 - 'sp.dailyrecord.com'
 - 'sp.dailyworld.com'
+- 'sp.data.funkedigital.de'
 - 'sp.delawareonline.com'
 - 'sp.delmarvanow.com'
 - 'sp.democratandchronicle.com'
