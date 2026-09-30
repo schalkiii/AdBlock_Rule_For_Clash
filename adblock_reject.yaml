@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-30 21:49:09
+# Generated on: 2026-10-01 02:38:36
 # Generated AdBlock rules
 # Total entries: 504097
 
@@ -286999,6 +286999,7 @@ payload:
 - 'enccm.hurrahelden.de'
 - 'enceladus.astro.net.daraz.com'
 - 'encfwencpbeta.jpmcam.tt.omtrdc.net'
+- 'enchanted-station.com'
 - 'enchantedrock.actonservice.com'
 - 'enchantevent.com3199023.notify6.com'
 - 'enchemcom1e-stagingighack.net.daraz.com'
@@ -311353,7 +311354,6 @@ payload:
 - 'gnrnc.intermobilifurniture.ro'
 - 'gnsdp.toms.com'
 - 'gnshwf.room-park.ru'
-- 'gnsnpaw.com'
 - 'gnuavcpc.woods.se'
 - 'gnwiwc.store.lapine.co.jp'
 - 'gnzcmh.sangishop.jp'
