@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-09-30 09:29:28
+# Generated on: 2026-09-30 15:18:54
 # Generated AdBlock rules
-# Total entries: 504094
+# Total entries: 504095
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -393986,6 +393986,7 @@ payload:
 - 'nanophase.actonservice.com'
 - 'nanopolix-ss.checkoutera.com'
 - 'nanthealth.actonservice.com'
+- 'nao.kagane.to'
 - 'naoforge.net.jumia.com.ng'
 - 'napatech.actonsoftware.com'
 - 'naqvv.astroguia.net'
