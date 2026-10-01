@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-01 15:42:55
+# Generated on: 2026-10-01 22:51:54
 # Generated AdBlock rules
-# Total entries: 504098
+# Total entries: 504100
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -27694,6 +27694,7 @@ payload:
 - 'api-r-is-1-2.net.daraz.com'
 - 'api-resolveaccept-shop.share.ntv.io'
 - 'api-rtic-stage.net.daraz.com'
+- 'api-sdk.beaconbank.jp'
 - 'api-secops-stage.net.daraz.com'
 - 'api-seller-shop-stage.net.daraz.com'
 - 'api-shrek.net.jumia.com.gh'
@@ -39492,7 +39493,6 @@ payload:
 - 'brotherinternational.tt.omtrdc.net'
 - 'brownies.bobbyseamoss.com'
 - 'browser-fp.production.linktr.ee'
-- 'browser-intake-datadoghq.eu'
 - 'browser.events.data.msn.cn'
 - 'browser.events.data.msn.com'
 - 'browser.pipe.aria.microsoft.com'
@@ -94315,6 +94315,7 @@ payload:
 - 'edge.country99.com'
 - 'edge.creator4real.com'
 - 'edge.crimeandinvestigation.ca'
+- 'edge.cuddlybeside.com'
 - 'edge.curiouscast.ca'
 - 'edge.cyasupply.com'
 - 'edge.db-finanzberatung.de'
@@ -449066,6 +449067,7 @@ payload:
 - 'strawberry.basf.us'
 - 'strawberry.essenzshop.rs'
 - 'strayeruniversity.tt.omtrdc.net'
+- 'stream-log.profilepassport.jp'
 - 'stream.9now.com.au'
 - 'stream.borza.com'
 - 'stream.corporatefinanceinstitute.com'
