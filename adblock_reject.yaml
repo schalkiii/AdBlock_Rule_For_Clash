@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-02 16:55:29
+# Generated on: 2026-10-02 23:07:58
 # Generated AdBlock rules
-# Total entries: 504108
+# Total entries: 504110
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -23435,6 +23435,7 @@ payload:
 - 'affa8.hikkoshi-master.com'
 - 'affaires.cogeco.ca'
 - 'affclh.bookline.hu'
+- 'affectionatestorage.com'
 - 'affex.org'
 - 'affi.cafemontana.cz'
 - 'affi.dobra-miska.cz'
@@ -442976,6 +442977,7 @@ payload:
 - 'sta.tracedock.com'
 - 'sta.vesojcarebd.com'
 - 'sta1.mediakortit.fi'
+- 'stackup-ai.com'
 - 'stacy.hubhubhub.name'
 - 'stadac.mobilapp.io'
 - 'staff-entrepreneur.share.ntv.io'
