@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-03 16:09:05
+# Generated on: 2026-10-03 21:23:54
 # Generated AdBlock rules
-# Total entries: 504110
+# Total entries: 504111
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -332814,6 +332814,7 @@ payload:
 - 'heartsdesireintl.heartsdesireintl.com'
 - 'heathrow.tt.omtrdc.net'
 - 'heatmap-events-collector.instapage.com'
+- 'heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev'
 - 'heatmap.emma.tools'
 - 'heatmap.support-inc.co.jp'
 - 'heatoor-ss.primeshopers.com'
