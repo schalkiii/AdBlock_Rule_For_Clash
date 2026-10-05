@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-05 13:41:13
+# Generated on: 2026-10-05 20:46:26
 # Generated AdBlock rules
-# Total entries: 504117
+# Total entries: 504121
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -29483,9 +29483,11 @@ payload:
 - 'apm-native.xiaohongshu.com'
 - 'apm-track.xiaohongshu.com'
 - 'apm.relationshipone.com'
+- 'apm.volccdn.com'
 - 'apm.yahoo.co.jp'
 - 'apmgmtication-spring.net.daraz.com'
 - 'apmplus.ap-southeast-1.volces.com'
+- 'apmplus.volces.com'
 - 'apnov-statnovc-stage.net.daraz.com'
 - 'apohk.moventashop.com'
 - 'apollo-accept-11ticket.share.ntv.io'
@@ -78032,6 +78034,7 @@ payload:
 - 'dgwa.getsnoozy.com'
 - 'dgwa.snoozygummies.com'
 - 'dgwa.studio10beauty.com'
+- 'dgwxaedsrledc.site'
 - 'dgyqlk.simplycarbonfiber.com'
 - 'dgyy59yc.xyz'
 - 'dgztiz.conrad.se'
@@ -298961,6 +298964,7 @@ payload:
 - 'fmdl3-1.tt-qe2.omtrdc.net'
 - 'fmdz1-1.tt-qe2.omtrdc.net'
 - 'fmel10-1.tt-stage3.omtrdc.net'
+- 'fmepuzstjrkqv.website'
 - 'fmextweb101.tt.omtrdc.net'
 - 'fmfacts.tt.omtrdc.net'
 - 'fmfwpr.fm.tt.omtrdc.net'
