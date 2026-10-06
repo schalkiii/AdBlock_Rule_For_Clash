@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-07 04:20:36
+# Generated on: 2026-10-07 07:53:19
 # Generated AdBlock rules
-# Total entries: 504140
+# Total entries: 504139
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -337509,7 +337509,6 @@ payload:
 - 'hungary.inklabs.hu'
 - 'hungry-exit.com'
 - 'hunt.elcorteingles.es'
-- 'hunt.goshupward.com'
 - 'hunt.pirschershop.de'
 - 'huntclubst.huntclubchiropractic.com'
 - 'hunterindustries.actonservice.com'
