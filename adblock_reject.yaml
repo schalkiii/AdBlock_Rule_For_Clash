@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-06 23:13:22
+# Generated on: 2026-10-07 04:20:36
 # Generated AdBlock rules
-# Total entries: 504134
+# Total entries: 504140
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -41201,6 +41201,7 @@ payload:
 - 'c2s.administrators.net.daraz.com'
 - 'c2s.startappnetwork.com'
 - 'c2srestricted-r-ht-2.net.daraz.com'
+- 'c3.wildwolf.name'
 - 'c30dc8d0f7.04e8c7346f.com'
 - 'c317acaa11.28dafd89fb.com'
 - 'c31945ec5c.7550f3b810.com'
@@ -337508,6 +337509,7 @@ payload:
 - 'hungary.inklabs.hu'
 - 'hungry-exit.com'
 - 'hunt.elcorteingles.es'
+- 'hunt.goshupward.com'
 - 'hunt.pirschershop.de'
 - 'huntclubst.huntclubchiropractic.com'
 - 'hunterindustries.actonservice.com'
@@ -397718,6 +397720,7 @@ payload:
 - 'nsxsm.trimrx.com'
 - 'nszcga.shoefm.co.kr'
 - 'nszwt.mintrx.com'
+- 'nt-stream-log.profilepassport.jp'
 - 'nt.brainharmonytips.com'
 - 'nt.braskinghealt.com'
 - 'nt.compass-fit.jp'
@@ -408302,6 +408305,8 @@ payload:
 - 'pp.o-instyle-11.alt.share.ntv.io'
 - 'pp.promocionesfarma.com'
 - 'pp.scorecardrewards.com'
+- 'pp3-sdk-api.profilepassport.jp'
+- 'pp3-sdkdata-v2-ut.profilepassport.jp'
 - 'ppadv.actonservice.com'
 - 'ppao.usw.coherentbody.com'
 - 'ppcent.org'
@@ -468177,6 +468182,7 @@ payload:
 - 'unallocated-corpnet-248.tt.omtrdc.net'
 - 'unaload.c.ns.emailvision.net.daraz.com'
 - 'unam.tt.omtrdc.net'
+- 'unami.delt.io'
 - 'unamktg.uponor.com'
 - 'unamorentrelosdos.files.tt.omtrdc.net'
 - 'unan.tt.omtrdc.net'
