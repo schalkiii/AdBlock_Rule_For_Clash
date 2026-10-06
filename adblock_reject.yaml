@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-06 16:04:08
+# Generated on: 2026-10-06 23:13:22
 # Generated AdBlock rules
-# Total entries: 504129
+# Total entries: 504134
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -32040,7 +32040,6 @@ payload:
 - 'assets.net.daraz.com'
 - 'assets.nubika.es'
 - 'assets.ogrzewanie-pex.pl'
-- 'assets.onedollarstats.com'
 - 'assets.oupe.es'
 - 'assets.piercingkungen.se'
 - 'assets.prydligt.com'
@@ -90755,6 +90754,7 @@ payload:
 - 'dy.qiagen.tt.omtrdc.net'
 - 'dyao379kim.meraki-go.tt.omtrdc.net'
 - 'dycndg.fashion5.de'
+- 'dyf08yha87tii.cloudfront.net'
 - 'dyghye.fashionesta.com'
 - 'dylyver-fi.tt.omtrdc.net'
 - 'dyms2-cal.tt.omtrdc.net'
@@ -289208,6 +289208,7 @@ payload:
 - 'erg.ihclam.cn'
 - 'erg.ite.tt.omtrdc.net'
 - 'erg1tst.e.tt.omtrdc.net'
+- 'ergadx.com'
 - 'ergd.media.tt.omtrdc.net'
 - 'ergebnis-dienst.de3323174.notifysrv.com'
 - 'ergode.tt.omtrdc.net'
@@ -292130,6 +292131,7 @@ payload:
 - 'evenview.r-oa-1.net.daraz.com'
 - 'evenvirtual.freya.net.daraz.com'
 - 'evenvps.r-oa-1.net.daraz.com'
+- 'evenyippee.com'
 - 'eveops.r-oa-1.net.daraz.com'
 - 'eveoracles.freya.net.daraz.com'
 - 'ever123.goaserv.com'
@@ -359232,6 +359234,7 @@ payload:
 - 'lilly.tt.omtrdc.net'
 - 'lilogy.actonservice.com'
 - 'lilpr.barbanortena.com'
+- 'lilstts.com'
 - 'lilthn.mollyg.com'
 - 'lim.fit-und-schlank.com'
 - 'lim.getnutrim.com'
@@ -422607,6 +422610,7 @@ payload:
 - 'servside.rxrprotect.com'
 - 'servst.berkeleypsychiatrists.co.uk'
 - 'servsta.alezz-oud.com'
+- 'servt.ergadx.com'
 - 'servw.bid'
 - 'ses.eskill.com'
 - 'seshat.speenwinkel.be'
@@ -454225,6 +454229,7 @@ payload:
 - 'tipicamp.tt.omtrdc.net'
 - 'tippcom01.tipp24.com'
 - 'tipperty.tt.omtrdc.net'
+- 'tips.delt.io'
 - 'tips47.tt.omtrdc.net'
 - 'tipstats.onepagelove.com'
 - 'tipswisatamurah.xham.live'
