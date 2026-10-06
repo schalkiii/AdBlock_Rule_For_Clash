@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-06 09:34:28
+# Generated on: 2026-10-06 16:04:08
 # Generated AdBlock rules
-# Total entries: 504123
+# Total entries: 504129
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -25979,6 +25979,7 @@ payload:
 - 'analytics.ikarao-shop.com'
 - 'analytics.ikyu.com'
 - 'analytics.infinitidesign.it'
+- 'analytics.infomaniak.com'
 - 'analytics.infosys.com'
 - 'analytics.infosys.org'
 - 'analytics.infosysbpm.com'
@@ -37400,6 +37401,7 @@ payload:
 - 'bioshockconbert2mp3.net.daraz.com'
 - 'biot.byads.co'
 - 'bipog.perfectwhitetee.com'
+- 'biprx.n12.co.il'
 - 'biqizo.vixpaulahermanny.com'
 - 'bird.brondby.com'
 - 'bird.hecten.com'
@@ -39973,6 +39975,7 @@ payload:
 - 'buaal.pharmacyonline.co.uk'
 - 'buacceptatieketns2.twteleacceptatieom.net.daraz.com'
 - 'buasmk.earthshoes.com'
+- 'buballmighty.com'
 - 'bubasocks-ss.checkoutera.com'
 - 'bubasocks-ss.shopperoc.com'
 - 'bubblesmedia.ru'
@@ -79153,6 +79156,7 @@ payload:
 - 'disgbledns.emgilvision.net.daraz.com'
 - 'dish.com.sc.tt.omtrdc.net'
 - 'dish.com.ssl.sc.tt.omtrdc.net'
+- 'dish.yippeeidle.com'
 - 'dishanalyticsandtest-profile.tt.omtrdc.net'
 - 'dishanalyticsandtest.info.tt.omtrdc.net'
 - 'dishanalyticsandtest.testing.tt.omtrdc.net'
@@ -399585,6 +399589,7 @@ payload:
 - 'one.nidec.com'
 - 'one.quotewizard.com'
 - 'one.rizqshopping.com'
+- 'one01.stright.bizris.com'
 - 'one2.onestep.fr'
 - 'onebloodinc.tt.omtrdc.net'
 - 'onechartmail.northside.com'
@@ -431501,6 +431506,7 @@ payload:
 - 'smon.nativeamericanheritagemonth.gov'
 - 'smon.womenshistorymonth.gov'
 - 'smoot.egeyikesfet.com'
+- 'smoothhmph.com'
 - 'smosh.share.ntv.io'
 - 'smp.tus.ac.jp'
 - 'smpl.hit.ppdb.pl'
