@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-08 00:52:37
+# Generated on: 2026-10-08 05:39:47
 # Generated AdBlock rules
-# Total entries: 504150
+# Total entries: 504155
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -9727,6 +9727,7 @@ payload:
 - '1oceania3pago-svc.docs.net.daraz.com'
 - '1of1.skipcash.app'
 - '1omp3pago.docs.net.daraz.com'
+- '1oqib8z2vxqmtwtczzg.cfd'
 - '1p-data.co'
 - '1p3293dngsv.dodofacile.fr'
 - '1pages-partner3pago-loginvc.doclogin.net.daraz.com'
@@ -46401,6 +46402,7 @@ payload:
 - 'casites13.legacy.net.daraz.com'
 - 'cask8s-prd-c.ns.emailvision.net.daraz.com'
 - 'casns.emailvision.net.daraz.com'
+- 'caspervisiveogor.cyou'
 - 'cassan.stageatid.net.daraz.com'
 - 'cassanjav.net.daraz.com'
 - 'cassatp.pacificregister.com'
@@ -385756,6 +385758,7 @@ payload:
 - 'measuring-pixel-service.alza.cz'
 - 'meat.midanmarketing.com'
 - 'meatballsandads.com'
+- 'meatusbyway.cfd'
 - 'mebed.dm-event.net'
 - 'mebjj.jaxxon.com'
 - 'meble.sofy24.pl'
@@ -452507,6 +452510,7 @@ payload:
 - 'targetspot.com'
 - 'targetstore.actonservice.com'
 - 'targettur.www.svenskaspel.se'
+- 'taro.sansyettusk.com'
 - 'tarsier.emitremmus.com'
 - 'tarsier.kriterie.se'
 - 'tartaros.chiccams.com'
@@ -454128,6 +454132,7 @@ payload:
 - 'timesleader.tt.omtrdc.net'
 - 'timeslot.cambridgeinvestmentr.tt.omtrdc.net'
 - 'timestamp-reno02.tt.omtrdc.net'
+- 'timestorn.com'
 - 'timestudentpt-staging.staging.ugportal.net.daraz.com'
 - 'timestudentpt.stage-mybooster.net.daraz.com'
 - 'timestudentpt.stage-teva.net.daraz.com'
