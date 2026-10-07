@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-07 17:25:28
+# Generated on: 2026-10-08 00:52:37
 # Generated AdBlock rules
-# Total entries: 504147
+# Total entries: 504150
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -20432,6 +20432,7 @@ payload:
 - 'accuzip.actonservice.com'
 - 'accvaccilaccble.net.daraz.com'
 - 'acdbc409c2.30c774812d.com'
+- 'acdn.newshuntads.com'
 - 'ace.naver.com'
 - 'acecashexpress.tt.hb-fa-dev.tt.omtrdc.net'
 - 'acecashexpress.tt.omtrdc.net'
@@ -349675,6 +349676,7 @@ payload:
 - 'jenny.jenny-app.com'
 - 'jensenhughes.actonservice.com'
 - 'jensenprecast.actonservice.com'
+- 'jentii.online'
 - 'jep.juanestebanpe.com'
 - 'jeq0mgdwkdpa84qh.net.daraz.com'
 - 'jeruk.tarpys.com'
@@ -417241,6 +417243,7 @@ payload:
 - 'sanl.ladyfootlocker.com'
 - 'sanl.six02.com'
 - 'sanmet.originenergy.com.au'
+- 'sansyettusk.com'
 - 'santacruz.xhlive.cam'
 - 'santander-open-academy.cip.test.ajo.adobe.com'
 - 'santanderargentina.tt.omtrdc.net'
