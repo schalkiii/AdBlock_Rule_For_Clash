@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-07 07:53:19
+# Generated on: 2026-10-07 10:50:00
 # Generated AdBlock rules
-# Total entries: 504139
+# Total entries: 504142
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -72989,6 +72989,7 @@ payload:
 - 'data.permittingnorthlandseamen.info'
 - 'data.petbarn.test.ajo.adobe.com'
 - 'data.petbox.pl'
+- 'data.petri.com'
 - 'data.petsecur.nl'
 - 'data.pfh.de'
 - 'data.phenomestraps.com'
@@ -299663,6 +299664,7 @@ payload:
 - 'forosraganforosforosropobjects.net.daraz.com'
 - 'foroswww.partner.net.daraz.com'
 - 'forpci3.siege-corp.com'
+- 'fort.toovaliantly.com'
 - 'fortinet.tt.omtrdc.net'
 - 'fortoemail.arteks.net'
 - 'fortune-ciotest2.share.ntv.io'
@@ -463158,6 +463160,7 @@ payload:
 - 'traxion.go-srv.com'
 - 'traxion.schweizerischesbb.tt.omtrdc.net'
 - 'traxion.sunbeltrentals.tt.omtrdc.net'
+- 'tray.ackvainly.com'
 - 'trazurevisioniningcsr41.net.daraz.com'
 - 'trb2bin-r-ob2b-1.net.daraz.com'
 - 'trberndpulchmedotcom-merchantn-www.net.daraz.com'
