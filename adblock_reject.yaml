@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-09 14:36:57
+# Generated on: 2026-10-09 21:41:21
 # Generated AdBlock rules
-# Total entries: 504165
+# Total entries: 504171
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -22179,6 +22179,7 @@ payload:
 - 'ads-static.recon.com'
 - 'ads-trk.vidible.tv'
 - 'ads.123net.jp'
+- 'ads.1mindrama.net'
 - 'ads.9versemedia.com'
 - 'ads.ad2iction.com'
 - 'ads.adadapted.com'
@@ -22378,6 +22379,7 @@ payload:
 - 'adstatistics.av380.net'
 - 'adstats.tencentmusic.com'
 - 'adstax-cdn.adrtx.net'
+- 'adsterratech.com'
 - 'adstk.io'
 - 'adstrategy.biz.weibo.com'
 - 'adsunflower.com'
@@ -51873,6 +51875,7 @@ payload:
 - 'clango.tt.omtrdc.net'
 - 'clanker-events.squarespace.com'
 - 'clankworks.tt.omtrdc.net'
+- 'clanpages.org'
 - 'clans18zyxwv.adminlb.accountfcanr.tt.omtrdc.net'
 - 'clap.tt.omtrdc.net'
 - 'clap044.lapp.tt.omtrdc.net'
@@ -74446,6 +74449,7 @@ payload:
 - 'debc29e834.73ea13c4fa.com'
 - 'debejav.assets.net.daraz.com'
 - 'debha.nextmeds.com'
+- 'debitm.org'
 - 'debjpy.globoshoes.com'
 - 'debojuagug1sf.cloudfront.net'
 - 'debs.my100bank.com'
@@ -448599,6 +448603,7 @@ payload:
 - 'stentel.actonservice.com'
 - 'step.cosprofbd.com'
 - 'step.vrsn.co'
+- 'step.whoeverhow.com'
 - 'stepancompany.tt.omtrdc.net'
 - 'stepe.soulderma.com.br'
 - 'stepioserver.citicrow.com'
@@ -461993,6 +461998,7 @@ payload:
 - 'tracking.trade-id.co.uk'
 - 'tracking.trailerfest.nl'
 - 'tracking.trainingnets.com'
+- 'tracking.trickbyte.com'
 - 'tracking.trinet.com'
 - 'tracking.trnox.com'
 - 'tracking.trutv.com'
