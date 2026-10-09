@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-09 08:24:22
+# Generated on: 2026-10-09 14:36:57
 # Generated AdBlock rules
-# Total entries: 504164
+# Total entries: 504165
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -94382,6 +94382,7 @@ payload:
 - 'edge.marketing.email.nordstromrack.com'
 - 'edge.maxblue.de'
 - 'edge.mcgriff.com'
+- 'edge.meadowwhat.com'
 - 'edge.miles-and-more-kreditkarte.com'
 - 'edge.moderncooking.com'
 - 'edge.movietimetv.ca'
