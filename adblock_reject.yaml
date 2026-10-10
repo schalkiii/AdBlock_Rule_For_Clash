@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-10 22:41:57
+# Generated on: 2026-10-11 02:59:17
 # Generated AdBlock rules
-# Total entries: 520451
+# Total entries: 520456
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -69096,6 +69096,7 @@ payload:
 - 'dac.xham.live'
 - 'daccount-emailvisionaganddaccount-emailvisionopobjects.net.daraz.com'
 - 'daccrabled.net.daraz.com'
+- 'dacfhprtw.com'
 - 'dach.getinge.com'
 - 'dach.intersystems.de'
 - 'dachstein-stage.joatoon.net.daraz.com'
@@ -79065,6 +79066,7 @@ payload:
 - 'dgire.koalaeco.com'
 - 'dgj2.palladiumhotelgroup.com'
 - 'dgkpzy.2ch2.net'
+- 'dgkqqbixb.com'
 - 'dgldo.luckybrand.com'
 - 'dglge.sophiawebster.com'
 - 'dglobalcs-utils-rtrcs.net.daraz.com'
@@ -80427,6 +80429,7 @@ payload:
 - 'djrlc.forever-moissanite.com'
 - 'djruto.divino.com.uy'
 - 'djulybledpartner.net.daraz.com'
+- 'djvbrjtpqbikw.com'
 - 'djwf0dl2q9i99.cloudfront.net'
 - 'djwi6wuextupv8.tt.omtrdc.net'
 - 'djwk.goaserv.com'
@@ -367295,6 +367298,7 @@ payload:
 - 'kjensen7.tt.omtrdc.net'
 - 'kjensenu.tt.omtrdc.net'
 - 'kjerstihoiby.goaserv.com'
+- 'kjetdxtcammhc.com'
 - 'kjeule.sellyhome.se'
 - 'kjeyrt.damart.fr'
 - 'kjgltopyeqjrnkko5mx1vwk.sparta.members.tt.omtrdc.net'
@@ -480839,6 +480843,7 @@ payload:
 - 'tsrdhi.stores-discount.com'
 - 'tsrh.tt-stage3.omtrdc.net'
 - 'tsrhoc.martiderm.pt'
+- 'tsrrygodropvq.space'
 - 'tss.angebleu.fr'
 - 'tss.aniticar.com'
 - 'tss.appartbeaute.com'
