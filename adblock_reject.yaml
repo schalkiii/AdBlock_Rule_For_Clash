@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-14 09:55:18
+# Generated on: 2026-10-14 14:48:33
 # Generated AdBlock rules
-# Total entries: 544997
+# Total entries: 544999
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -451928,6 +451928,7 @@ payload:
 - 'rt.ayudafinancieras.com'
 - 'rt.balletbeautiful.com'
 - 'rt.biovitalcorelab.com'
+- 'rt.buzzni.com'
 - 'rt.connectprosnow.com'
 - 'rt.dailycarepro.com'
 - 'rt.dispo-seo.com'
@@ -493659,6 +493660,7 @@ payload:
 - 'text.mitarbeiterangebote.at'
 - 'text.mitarbeiterangebote.de'
 - 'text.rahmenvereinbarungen.de'
+- 'textads.lv'
 - 'textbondy.com'
 - 'textupload.strp.chat'
 - 'teyourmarketing.trungaleegan.com'
