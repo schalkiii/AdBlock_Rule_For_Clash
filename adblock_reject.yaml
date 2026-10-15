@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-15 14:35:13
+# Generated on: 2026-10-15 20:00:19
 # Generated AdBlock rules
-# Total entries: 544997
+# Total entries: 545001
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -9941,6 +9941,7 @@ payload:
 - '123mobilago-svc.docs.net.daraz.com'
 - '123mxago.docs.net.daraz.com'
 - '123ns1ago.docs.net.daraz.com'
+- '123p.zonazealots.com'
 - '123pa01-loginvc.doclogin.net.daraz.com'
 - '123pa123pagoo.docs.net.daraz.com'
 - '123paacc-loginvc.doclogin.net.daraz.com'
@@ -27352,6 +27353,7 @@ payload:
 - 'ads-nginx.altad.share.ntv.io'
 - 'ads-partners.coupang.com'
 - 'ads-privacy-api.prd.mz.internal.unity3d.com'
+- 'ads-proxy-aka.prod.bo.canal.canalplustech.pro'
 - 'ads-resources.waze.com'
 - 'ads-router-noneu.truecaller.com'
 - 'ads-sdk.mattel163.com'
@@ -354059,6 +354061,7 @@ payload:
 - 'gpplus-app.hotdoc.com.au'
 - 'gprincebalid3.click.s11.sfmc-osl.com'
 - 'gps.jvrconsultinginc.com'
+- 'gpskeeper.popinfo.jp'
 - 'gpt.throatbulge.com'
 - 'gpt.tubetruck.com'
 - 'gptsb.thrivecausemetics.com'
@@ -416248,6 +416251,7 @@ payload:
 - 'manufacturing.autodeskcommunications.com'
 - 'manufacturing.salientsys.com'
 - 'manulifefinancial.tt.omtrdc.net'
+- 'manus-analytics.com'
 - 'manyavar.tt.omtrdc.net'
 - 'maoseroniasokuhouge.lib-oa-1.net.daraz.com'
 - 'map.blendex.dk'
