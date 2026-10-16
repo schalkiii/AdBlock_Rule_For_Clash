@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-16 17:50:12
+# Generated on: 2026-10-16 22:22:17
 # Generated AdBlock rules
-# Total entries: 545293
+# Total entries: 545295
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -410965,6 +410965,7 @@ payload:
 - 'lord.piercingxxl.de'
 - 'lord.piercingxxl.fr'
 - 'lord.piercingxxl.pl'
+- 'lordhq.biz'
 - 'lore.joalheria360.com.br'
 - 'lore.loriele.com'
 - 'losninger.abena.dk'
@@ -509235,6 +509236,7 @@ payload:
 - 'untangle1.net.daraz.com'
 - 'untdkboz.ration1.de'
 - 'unternehmen-stg.tt.omtrdc.net'
+- 'untilhmph.com'
 - 'untimely-hello.com'
 - 'untimely-proof.pro'
 - 'untmm.virtuepb.com'
