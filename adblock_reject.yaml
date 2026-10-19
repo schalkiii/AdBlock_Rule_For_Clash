@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-19 14:44:20
+# Generated on: 2026-10-19 22:06:21
 # Generated AdBlock rules
-# Total entries: 545297
+# Total entries: 545303
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -44387,6 +44387,7 @@ payload:
 - 'bigbunnymarketengineering.links.rosieapp.com'
 - 'bigconfigs.reliableequipmentparts.com'
 - 'bigcustomernetwork.actonservice.com'
+- 'bigdata-scfx-push.kucoin.plus'
 - 'bigdata.clarin.com'
 - 'bigfluffycatexchange.crabdance.com'
 - 'bigisland.shakaguide.com'
@@ -66074,6 +66075,7 @@ payload:
 - 'cloudmoziront-c.ns.emailvision.net.daraz.com'
 - 'cloudmx01ontcar31.net.daraz.com'
 - 'cloudn-switchppr-ht-2.net.daraz.com'
+- 'cloudnaery.net'
 - 'cloudnet.tt.omtrdc.net'
 - 'cloudnetworkontcar31.net.daraz.com'
 - 'cloudnewmailront-c.ns.emailvision.net.daraz.com'
@@ -428742,6 +428744,7 @@ payload:
 - 'mxoqqu.uniwigs.com'
 - 'mxpdsu.bhv.fr'
 - 'mxpl.9gag.com'
+- 'mxqdpxzybpx.com'
 - 'mxro404jyfkxekbo.administrators.net.daraz.com'
 - 'mxslobalid3.click.s11.sfmc-osl.com'
 - 'mxsvjc.hackers.ac'
@@ -443591,6 +443594,7 @@ payload:
 - 'peueg.swankybadger.com'
 - 'peusb.tuintegelstotaal.nl'
 - 'pevftg.shopee.sg'
+- 'pexelss.net'
 - 'peyqvn.falke.com'
 - 'pezkg.chichicosmetics.com'
 - 'pezogyros.openapp.link'
@@ -451229,6 +451233,7 @@ payload:
 - 'rfmqx.tanga.com'
 - 'rfnhj.sleeponchime.com'
 - 'rfp.intuit.com'
+- 'rfsdvudff.com'
 - 'rfsquk.medicaresavingslab.com'
 - 'rfss.russellfinex.com'
 - 'rfssm.iliabeauty.com'
@@ -497363,6 +497368,7 @@ payload:
 - 'tpi-app.herokuapp.com'
 - 'tpiqbv.pixartprinting.ch'
 - 'tpivd.tea-direct.co.uk'
+- 'tpiwudolrna.in'
 - 'tpjehb.addax.com.tr'
 - 'tpkecsr41.net.daraz.com'
 - 'tpko5g8ai9we8jiu.wlan-switch.partner.nautilus.net.daraz.com'
