@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-20 20:20:26
+# Generated on: 2026-10-21 01:16:59
 # Generated AdBlock rules
-# Total entries: 561739
+# Total entries: 561740
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -333096,6 +333096,7 @@ payload:
 - 'exponensialstage.github.global.ssl.fastly.net.daraz.com'
 - 'exponent.acronymmedia.tt.omtrdc.net'
 - 'exponent.bbh.tt.omtrdc.net'
+- 'exponential.com'
 - 'exponentpartners.tt.omtrdc.net'
 - 'export-cb-uat.securebusiness.tt.omtrdc.net'
 - 'export.ac-cned.fr'
