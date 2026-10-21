@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-21 09:57:35
+# Generated on: 2026-10-21 14:48:40
 # Generated AdBlock rules
-# Total entries: 571672
+# Total entries: 571675
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -40470,6 +40470,7 @@ payload:
 - 'at3.net.daraz.com'
 - 'at4o32tletujy7e4.emrj82plvision.authenticate.net.daraz.com'
 - 'atad.douchezaak.nl'
+- 'atag.adgile.media'
 - 'atarget.adelaide.edu.au'
 - 'atarget.csu.edu.au'
 - 'atarget.firstrepublic.com'
@@ -40547,6 +40548,7 @@ payload:
 - 'atlas-tunnel.19.altad.share.ntv.io'
 - 'atlas-webct.19.altad.share.ntv.io'
 - 'atlas-www.partner.net.daraz.com'
+- 'atlas.atsptp.com'
 - 'atlas.bellsouth.northamerica.net.daraz.com'
 - 'atlas1.krone.at'
 - 'atlasbackups-22.19.altad.share.ntv.io'
@@ -562977,6 +562979,7 @@ payload:
 - 'x.ae2-dfw3-dr02.net.daraz.com'
 - 'x.api-cdn-ca-2ssl-initcom.hb-api.tt.omtrdc.net'
 - 'x.api-localhost.net.daraz.com'
+- 'x.appbrain.com'
 - 'x.arena-rave.de'
 - 'x.asana.r-hx-1.net.daraz.com'
 - 'x.assetsyancancook.net.daraz.com'
