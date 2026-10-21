@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-22 01:36:25
+# Generated on: 2026-10-22 04:51:51
 # Generated AdBlock rules
-# Total entries: 571829
+# Total entries: 571832
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -42326,6 +42326,7 @@ payload:
 - 'b-sing.com'
 - 'b.72ckgctit6mngwqbbo2ln.cyou'
 - 'b.aecf.org'
+- 'b.allegrocdp.com'
 - 'b.allsecur.nl'
 - 'b.arenum.games'
 - 'b.asaplinks.com'
@@ -446227,6 +446228,7 @@ payload:
 - 'metrics.sharecare.com'
 - 'metrics.sharkfutures.com'
 - 'metrics.sharpusa.com'
+- 'metrics.shasetsu.jp'
 - 'metrics.sheeep.com'
 - 'metrics.sheehylexusofannapolis.com'
 - 'metrics.sheen.jp'
@@ -571507,6 +571509,7 @@ payload:
 - 'zwgoeg.zakcret.gr'
 - 'zwinqi.spartoo.pt'
 - 'zwiucp.ohmynews.com'
+- 'zwjvbnvhnzme.heise.de'
 - 'zwlhnfas9i60zshn.10-marketing.net.daraz.com'
 - 'zwmowu.youboat.fr'
 - 'zwmzn.nutrimill.com'
