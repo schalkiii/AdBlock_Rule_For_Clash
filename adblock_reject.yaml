@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-22 15:35:56
+# Generated on: 2026-10-22 21:10:02
 # Generated AdBlock rules
-# Total entries: 571833
+# Total entries: 571836
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -39273,6 +39273,7 @@ payload:
 - 'applytics.napps-1.com'
 - 'applytics.nordvpn.com'
 - 'applytics.os4work.com'
+- 'applytics.zwyr157wwiu6eior.com'
 - 'applzr.com'
 - 'appmail.castlegroup.com'
 - 'appmail.corazonpuro.org'
@@ -411656,6 +411657,7 @@ payload:
 - 'line1-log.biligame.net'
 - 'lineadirectaes.tt.omtrdc.net'
 - 'lineartechnik.item24.de'
+- 'linecrs.line-scdn.net'
 - 'linemark.actonservice.com'
 - 'linen.allevyacomfortco.com'
 - 'lineside.networkrail.co.uk'
@@ -476804,6 +476806,7 @@ payload:
 - 'rtb.julang.taobao.com'
 - 'rtb.klico.link'
 - 'rtb.nativeads.com'
+- 'rtb.nefta.app'
 - 'rtb.nowsrv.com'
 - 'rtb.nuismak.com'
 - 'rtb.optidigital.com'
