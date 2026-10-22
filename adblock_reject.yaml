@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-22 21:10:02
+# Generated on: 2026-10-23 01:59:09
 # Generated AdBlock rules
-# Total entries: 571836
+# Total entries: 571838
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -79805,6 +79805,7 @@ payload:
 - 'da.csr21.net.daraz.com'
 - 'da.faceartstudio.de'
 - 'da.fds-cleantec.de'
+- 'da.flvcdn.net'
 - 'da.freo.nl'
 - 'da.freshtaste.de'
 - 'da.ganzinweiss.eu'
@@ -85597,6 +85598,7 @@ payload:
 - 'data.voorkappers.be'
 - 'data.voyager.dev.cjmadobe.com'
 - 'data.voybien.com'
+- 'data.vzhh.de'
 - 'data.waleskamarinho.com'
 - 'data.wallartsmetal.com'
 - 'data.wanderingowl.com'
@@ -411657,7 +411659,6 @@ payload:
 - 'line1-log.biligame.net'
 - 'lineadirectaes.tt.omtrdc.net'
 - 'lineartechnik.item24.de'
-- 'linecrs.line-scdn.net'
 - 'linemark.actonservice.com'
 - 'linen.allevyacomfortco.com'
 - 'lineside.networkrail.co.uk'
@@ -550227,6 +550228,7 @@ payload:
 - 'witunneler.signed.net.daraz.com'
 - 'wiuter.firewall.net.daraz.com'
 - 'wiuyjxbqhsxwpus-c.adktrack39.xyz'
+- 'wivowu.my'
 - 'wiwa.williamwalker.be'
 - 'wiwa.williamwalker.ch'
 - 'wiwa.williamwalker.de'
