@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-23 16:36:52
+# Generated on: 2026-10-23 21:46:23
 # Generated AdBlock rules
-# Total entries: 571843
+# Total entries: 571845
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -20581,6 +20581,7 @@ payload:
 - 'a.carryu.com'
 - 'a.cartop.dk'
 - 'a.catchlucky.cc'
+- 'a.cdn-lab.shop'
 - 'a.celeb.st'
 - 'a.celit.xyz'
 - 'a.celoe.xyz'
@@ -383440,6 +383441,7 @@ payload:
 - 'hevir.ryanandrose.co'
 - 'hevoziguty.edgarsuites.com'
 - 'hevqaz.submarino.com.br'
+- 'hewdasgas.com'
 - 'hewlettpackard.tt.omtrdc.net'
 - 'hexagon.novatel.com'
 - 'hexagonautomotive.novatel.com'
