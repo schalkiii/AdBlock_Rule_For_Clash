@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-23 11:18:21
+# Generated on: 2026-10-23 16:36:52
 # Generated AdBlock rules
-# Total entries: 571839
+# Total entries: 571843
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -410545,6 +410545,7 @@ payload:
 - 'ldcheg.glamira.pt'
 - 'ldckmk.divarese.com.tr'
 - 'ldcqh.reynspooner.com'
+- 'ldfyjedytzkpx.space'
 - 'ldhteg.mooihorloge.nl'
 - 'ldinry.drinks.ch'
 - 'ldkml.luxskin.co'
@@ -460751,6 +460752,7 @@ payload:
 - 'otfur.craneandcanopy.com'
 - 'otgam.zox.co'
 - 'othanasis.openapp.link'
+- 'othbmudutr.in'
 - 'other.appcpi.net'
 - 'othisf.tagomago.pl'
 - 'othvwz.thelittlegreenbag.be'
@@ -519885,6 +519887,7 @@ payload:
 - 'tiny-ruth-dev.accountaccess-internal-devaltproduction.tt-stage-ci1.omtrdc.net'
 - 'tiny.01-lib-oa-1-admin8.net.daraz.com'
 - 'tinyi2c.tt.omtrdc.net'
+- 'tinyns.me'
 - 'tinyspark.go-static.info'
 - 'tinytuna.tt-stage3.omtrdc.net'
 - 'tinyworkspace.tt.omtrdc.net'
@@ -571078,6 +571081,7 @@ payload:
 - 'zrnsri.vogacloset.com'
 - 'zrofz.spectacularacademy.com'
 - 'zrpfi.cheershealth.com'
+- 'zrraksfxccuop.online'
 - 'zrrjq.pinkblushmaternity.com'
 - 'zrsetz.shutterstock.com'
 - 'zrtbg.citybbq.com'
