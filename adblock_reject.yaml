@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-25 03:53:22
+# Generated on: 2026-10-25 06:01:27
 # Generated AdBlock rules
-# Total entries: 571846
+# Total entries: 571847
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -343228,6 +343228,7 @@ payload:
 - 'fidelity.activate.ensighten.com'
 - 'fidelityinternationa.tt.omtrdc.net'
 - 'fidelitywi.tt.omtrdc.net'
+- 'fido.xhamster.com'
 - 'fidri.hireagogetter.com'
 - 'fiduciaryfirst.actonservice.com'
 - 'fie.alldent-zahnzentrum-dresden.de'
