@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-26 13:13:03
+# Generated on: 2026-10-26 19:08:05
 # Generated AdBlock rules
-# Total entries: 571848
+# Total entries: 571849
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -480491,6 +480491,7 @@ payload:
 - 'seao.business.samsung.com'
 - 'search-00proplus3xn.net.daraz.com'
 - 'search-application-spring.net.daraz.com'
+- 'search-monitor.11st.co.kr'
 - 'search-n-switch.net.daraz.com'
 - 'search-ns.emailvision.panel.net.daraz.com'
 - 'search-pre.instyle.share.ntv.io'
