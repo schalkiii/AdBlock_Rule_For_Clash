@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-27 19:08:01
+# Generated on: 2026-10-28 00:39:15
 # Generated AdBlock rules
-# Total entries: 646993
+# Total entries: 647002
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -69544,6 +69544,7 @@ payload:
 - 'cdn-s5.tt.omtrdc.net'
 - 'cdn-sc.fortune.share.ntv.io'
 - 'cdn-secure-allseason.net.daraz.com'
+- 'cdn-settings.af-sdk.com'
 - 'cdn-sharerint-mo.net.daraz.com'
 - 'cdn-sjc12-mo.net.daraz.com'
 - 'cdn-sm5-prog.tt.omtrdc.net'
@@ -426488,6 +426489,7 @@ payload:
 - 'greenjapan-cname.green-japan.com'
 - 'greenlight-val.looksmart.com'
 - 'greenroofoutfitters.actonservice.com'
+- 'greentrafsa.com'
 - 'greentubeiesgmbh.tt.omtrdc.net'
 - 'greenwood-stagingcointoon.net.daraz.com'
 - 'greenwood.javhihi.net.daraz.com'
@@ -448447,6 +448449,7 @@ payload:
 - 'in54.subzeroandwolf.tt.omtrdc.net'
 - 'in809jdp5gn5pv1z.agriprecision.net.daraz.com'
 - 'inapp.picknfix.com'
+- 'inapps.af-sdk.com'
 - 'inapps.appsflyersdk.com'
 - 'inbdut.marinbrasil.com.br'
 - 'inbenta.actonservice.com'
@@ -523752,6 +523755,7 @@ payload:
 - 'neon.ns3.mobilecl.bellsouth.net.daraz.com'
 - 'neonapache.altad.share.ntv.io'
 - 'neoncsr21.net.anwalt.de'
+- 'neonewszone.lat'
 - 'neos.formuladoraestrella.com'
 - 'neos.lasentradas.com.ec'
 - 'neos.masterads.pro'
@@ -531017,6 +531021,7 @@ payload:
 - 'orgalt.share.ntv.io'
 - 'orgaltnew-alt.share.ntv.io'
 - 'organic-doberman.pikapod.net'
+- 'organic-package.com'
 - 'organicmission.ogee.com'
 - 'organizations.stratfor.com'
 - 'orgbeta-interaction.net.daraz.com'
@@ -592668,6 +592673,7 @@ payload:
 - 'telemetry.oliverwymanforum.com'
 - 'telemetry.otsuka-us.com'
 - 'telemetry.owenscorning.com'
+- 'telemetry.paypay.ne.jp'
 - 'telemetry.proton.me'
 - 'telemetry.rarecams.com'
 - 'telemetry.ruthschris.com'
@@ -608671,6 +608677,8 @@ payload:
 - 'umami.stayspiced.com'
 - 'umami.trackiq.com'
 - 'umami.trapilot.ai'
+- 'umami.vidfast.vc'
+- 'umami.vidup.to'
 - 'umami2.devliang.xyz'
 - 'umami3.devliang.xyz'
 - 'umami4.devliang.xyz'
@@ -624456,6 +624464,7 @@ payload:
 - 'widget-assets.assets.tt.omtrdc.net'
 - 'widget-clock.tt.omtrdc.net'
 - 'widget.admiral.hr'
+- 'widget.brambles.ai'
 - 'widget.centurylink.tt.omtrdc.net'
 - 'widget.cloud-cdn.ru'
 - 'widget.feedot-lawyer.ru'
