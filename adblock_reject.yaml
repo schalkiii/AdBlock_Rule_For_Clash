@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-27 13:49:38
+# Generated on: 2026-10-27 19:08:01
 # Generated AdBlock rules
-# Total entries: 646988
+# Total entries: 646993
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -51750,6 +51750,7 @@ payload:
 - 'bigcustomernetwork.actonservice.com'
 - 'bigdata-scfx-push.kucoin.plus'
 - 'bigdata.clarin.com'
+- 'bigdata.downza.com'
 - 'bigdata.txuenergy.tt.omtrdc.net'
 - 'bigdata2015.tt.omtrdc.net'
 - 'bigdataportal.ukarmyrecruiting.tt.omtrdc.net'
@@ -88307,6 +88308,7 @@ payload:
 - 'comastaram.dcsportal.0-astrologie-push-de-drzlive.net.daraz.com'
 - 'comatmoviehd.net.daraz.com'
 - 'comatsu.myavlive.com'
+- 'combatbaskstationery.com'
 - 'combimatrix.actonservice.com'
 - 'combinado.tt.omtrdc.net'
 - 'combinatorics.tt.omtrdc.net'
@@ -129656,6 +129658,7 @@ payload:
 - 'dumstums.myfamilycominc.tt.omtrdc.net'
 - 'dun.cms.tt.omtrdc.net'
 - 'dunandbradstreetinc.tt.omtrdc.net'
+- 'dunanscastle.org'
 - 'dunboyne.tt.omtrdc.net'
 - 'dunbradstreet.tt.omtrdc.net'
 - 'dunbs.athome.tt.omtrdc.net'
@@ -519617,6 +519620,7 @@ payload:
 - 'module.zontratech.com'
 - 'moduleanalysis.aliexpress.com'
 - 'modus.nike.com'
+- 'modusygunaciro.com'
 - 'moebel.medipax.de'
 - 'moeda.mwresearch.com.br'
 - 'moeez.wellnesslabsrx.com'
@@ -643733,6 +643737,7 @@ payload:
 - 'zenpad.staging-craftmod.net.daraz.com'
 - 'zenpadreshmaza.net.daraz.com'
 - 'zenru.1md.org'
+- 'zenstats.yzhy19.cn'
 - 'zenticbd.zentic.com.bd'
 - 'zentrixads.com'
 - 'zenx.tt-qe2.omtrdc.net'
