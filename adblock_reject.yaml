@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-28 19:43:16
+# Generated on: 2026-10-29 01:28:30
 # Generated AdBlock rules
-# Total entries: 647006
+# Total entries: 647007
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -388404,6 +388404,7 @@ payload:
 - 'fespzx.sfr.fr'
 - 'festivals.townsquaremedia.info'
 - 'festivalseks-brocom.events.tt.omtrdc.net'
+- 'festivehorse.com'
 - 'festo.actonservice.com'
 - 'fet-agenda.21.auth-resolveann.share.ntv.io'
 - 'fet-folders.21.auth-resolveann.share.ntv.io'
