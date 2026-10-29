@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-29 22:20:14
+# Generated on: 2026-10-30 03:42:19
 # Generated AdBlock rules
-# Total entries: 647009
+# Total entries: 647012
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -530417,6 +530417,7 @@ payload:
 - 'op-al.share.ntv.io'
 - 'op-apache.altad.share.ntv.io'
 - 'op.api-api-docs-resolve.share.ntv.io'
+- 'op.fintables.com'
 - 'op.marcheranagap.cfd'
 - 'op.oronpropp.se'
 - 'op.purexbio.com'
@@ -550213,6 +550214,7 @@ payload:
 - 's.hyggeonkel.dk'
 - 's.hypertools.so'
 - 's.iadbsntna.com'
+- 's.igen.fr'
 - 's.iiwvrnwxtr.com'
 - 's.imagica.ai'
 - 's.imoveislotus.com.br'
@@ -608965,6 +608967,7 @@ payload:
 - 'uneven.medtronicinc.tt.omtrdc.net'
 - 'unf.wyndhamhotelgroup.tt.omtrdc.net'
 - 'unfi.ces.tt.omtrdc.net'
+- 'unfoldedtrade.com'
 - 'ungdomsskolen-staging-stage.asp.net.daraz.com'
 - 'ungdomsskolen-staging-stage.hasani.net.daraz.com'
 - 'ungdomsskolen-staging-stageobong.net.daraz.com'
