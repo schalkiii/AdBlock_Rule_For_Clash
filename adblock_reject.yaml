@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-30 17:07:06
+# Generated on: 2026-10-30 23:58:03
 # Generated AdBlock rules
-# Total entries: 647018
+# Total entries: 647019
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -35478,6 +35478,7 @@ payload:
 - 'aphtn.dsw.ca'
 - 'aphxav.green-acres.it'
 - 'api-abababababsupportic-stage.net.daraz.com'
+- 'api-abtest-cdn.learnings.ai'
 - 'api-access.pangolin-sdk-toutiao1.com'
 - 'api-achoice-stg-stage.net.daraz.com'
 - 'api-ad-adapter.wps.com'
@@ -385225,7 +385226,6 @@ payload:
 - 'ezoeyd.planetahuerto.pt'
 - 'ezofv.gesundheit-der-frau.com'
 - 'ezoicanalytics.com'
-- 'ezojs.com'
 - 'ezong-stagingentslib-ht-1.net.daraz.com'
 - 'ezong-stagings.10-marketing.net.daraz.com'
 - 'ezongstprint-mo.net.daraz.com'
@@ -425222,6 +425222,7 @@ payload:
 - 'goodluckboys.tt.omtrdc.net'
 - 'goodman-qa.tt.omtrdc.net'
 - 'goodnews2.goasrv.com'
+- 'goodpics.net'
 - 'goods5ai.tt.omtrdc.net'
 - 'goodsam.net.daraz.com'
 - 'goodsamaritan-nsw.goasrv.com'
