@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-30 10:55:15
+# Generated on: 2026-10-30 17:07:06
 # Generated AdBlock rules
-# Total entries: 647012
+# Total entries: 647018
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -34395,6 +34395,7 @@ payload:
 - 'analytics.scubadiving.com'
 - 'analytics.seagate.com'
 - 'analytics.sealdoc.eu'
+- 'analytics.searchspring.net'
 - 'analytics.seatfactory.com'
 - 'analytics.securebanklogin.com'
 - 'analytics.sedrajewellery.com'
@@ -69991,6 +69992,7 @@ payload:
 - 'cdn.smartgoods.de'
 - 'cdn.smartnews-ads.com'
 - 'cdn.smlog.co.kr'
+- 'cdn.snitcher.com'
 - 'cdn.sorenwatches.com'
 - 'cdn.sov.stream'
 - 'cdn.spankbanglive.com'
@@ -77690,6 +77692,7 @@ payload:
 - 'clavecin.taokids.be'
 - 'clavecin.taokids.com'
 - 'clavestagingstaginglagu123.net.daraz.com'
+- 'claydar.com'
 - 'claynelsonlifebalance.actonservice.com'
 - 'clb.yahooapis.jp'
 - 'clbd.freya.net.daraz.com'
@@ -544717,6 +544720,7 @@ payload:
 - 'radar.josianamendes.adv.br'
 - 'radar.marinhoadvmg.com.br'
 - 'radar.rodrigopradomentor.com.br'
+- 'radar.snitcher.com'
 - 'radi.l27.cz'
 - 'radi.zachrannasit.cz'
 - 'radio-avalt.share.ntv.io'
@@ -545813,6 +545817,7 @@ payload:
 - 'refferal.trk.agency'
 - 'refinitiv.tt.omtrdc.net'
 - 'reflect.kombai.com'
+- 'reflecting-nature.com'
 - 'refund.aznudelive.com'
 - 'refund.cambaddies.com'
 - 'refund.drtuberlive.com'
@@ -584570,6 +584575,7 @@ payload:
 - 'static-analytics.nativeads.com'
 - 'static-api.yamjep.com'
 - 'static-assets.vanvast.nl'
+- 'static-cmp22.ciaopeople.it'
 - 'static-dev1-pay.net.jumia.com'
 - 'static-files.tipsterstube.com'
 - 'static-mon.yandex.net'
