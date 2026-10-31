@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-31 10:52:13
+# Generated on: 2026-10-31 16:59:40
 # Generated AdBlock rules
-# Total entries: 647020
+# Total entries: 647021
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -607850,6 +607850,7 @@ payload:
 - 'ubank.pallcorp.tt.omtrdc.net'
 - 'ubari.accountbac2.tt-stage-ci1.omtrdc.net'
 - 'ubbcluj.go-static.info'
+- 'ubbrobccheck20.cc'
 - 'ubcaih.xlmoto.dk'
 - 'ubcolj.cebu-oh.com'
 - 'ubdbja.bellaboho.com'
