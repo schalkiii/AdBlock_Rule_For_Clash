@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-03 16:42:17
+# Generated on: 2026-11-04 00:40:08
 # Generated AdBlock rules
-# Total entries: 671763
+# Total entries: 671769
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -29436,6 +29436,7 @@ payload:
 - 'accountsstageallbesta.net.daraz.com'
 - 'accountstagingvisiongns2.viviotech.net.daraz.com'
 - 'accounttl.partner-pay.net.daraz.com'
+- 'accountut.com'
 - 'accountwinter.net.daraz.com'
 - 'accouradiusing.car21.net.daraz.com'
 - 'accouvpn-w-htgb-aingpartner.net.daraz.com'
@@ -38417,6 +38418,7 @@ payload:
 - 'api-mmjustapinch-justapinch-annjustapinch.justapinch.share.ntv.io'
 - 'api-mynorthwestchimera.share.ntv.io'
 - 'api-napoli.store.sscnapoli.it'
+- 'api-node.corvexa.cloud'
 - 'api-notify.markarch.com'
 - 'api-partner-cdnpre-bmsatic-partner-cdnpre-bmsage.net.daraz.com'
 - 'api-pixels.easyadsapp.com'
@@ -43806,6 +43808,7 @@ payload:
 - 'astrologieu01dbaf0840-990auyn11w0wpnuy4.0-030.net.daraz.com'
 - 'astromed.actonservice.com'
 - 'astrsk.net'
+- 'asttoxa.ru'
 - 'astuff.clicknplay.to'
 - 'astyem9osb71wet3.net.daraz.com'
 - 'astyem9osb71wet3.northamerica.net.daraz.com'
@@ -46302,7 +46305,6 @@ payload:
 - 'b.tradezella.com'
 - 'b.tridha.net'
 - 'b.truckertotrucker.com'
-- 'b.trueanthem.com'
 - 'b.tryknowmad.com'
 - 'b.tryprepit.app'
 - 'b.tryslate.markets'
@@ -49464,6 +49466,7 @@ payload:
 - 'bellmx1outh.adminimx1tratormx1.net.daraz.com'
 - 'belln-switchuth.administrators.net.daraz.com'
 - 'bellnautilusouth.northamerica.net.daraz.com'
+- 'bellnewyork.org'
 - 'bellnorthamericaouth.admininorthamericatrator.net.daraz.com'
 - 'bellomarc-direct.shop.tt.omtrdc.net'
 - 'bellomarc-dps.shop.tt.omtrdc.net'
@@ -457556,6 +457559,7 @@ payload:
 - 'helper.miroar.fr'
 - 'helper.miroar.pl'
 - 'helper.weevio.co'
+- 'helpfulmaple.com'
 - 'helphellomagazine.share.ntv.io'
 - 'helpingsmallbusiness.optus.com.au'
 - 'helpllsouth.administrators.net.daraz.com'
@@ -524908,6 +524912,7 @@ payload:
 - 'lzjsfu.hobobags.com'
 - 'lzlrp.alpakagear.com'
 - 'lznjr.kingsize.com'
+- 'lzopmoas.in'
 - 'lzoqkmi1y31n892ovon9kfx.oelup71j7mpj6ch4u.cyou'
 - 'lzppar0gipijfxkc.authenticate.net.daraz.com'
 - 'lzppar0gipijfxkc.azure.net.daraz.com'
@@ -616597,6 +616602,7 @@ payload:
 - 'telemetry.doxo.com'
 - 'telemetry.drtuberlive.com'
 - 'telemetry.dzen.ru'
+- 'telemetry.ecosoft.group'
 - 'telemetry.email.tffact.com'
 - 'telemetry.eyeo.com'
 - 'telemetry.gfe.nvidia.com'
