@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-05 00:19:19
+# Generated on: 2026-11-05 05:56:10
 # Generated AdBlock rules
-# Total entries: 671769
+# Total entries: 671771
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -546649,6 +546649,7 @@ payload:
 - 'news.pardotbrasil.com.br'
 - 'news.parisphoto.com'
 - 'news.petage.com'
+- 'news.post.at'
 - 'news.primaadditive.com'
 - 'news.primagaz.fr'
 - 'news.primapower.com'
@@ -563177,6 +563178,7 @@ payload:
 - 'post.eknow.ai'
 - 'post.envoyermail.com'
 - 'post.examplesapollo.share.ntv.io'
+- 'post.eyepinnews.com'
 - 'post.gocardless.com'
 - 'post.hello-owen.com'
 - 'post.hellomagazineagenda-apollo.share.ntv.io'
