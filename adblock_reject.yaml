@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-06 00:45:19
+# Generated on: 2026-11-06 06:25:41
 # Generated AdBlock rules
-# Total entries: 698234
+# Total entries: 698236
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -436511,6 +436511,7 @@ payload:
 - 'fiawmk.empik.com'
 - 'fiber.zayo.com'
 - 'fibfrc.thecara.co.kr'
+- 'fibot-widget.fibabanka.com.tr'
 - 'fibqxe.lagrandeepicerie.com'
 - 'fibroid-gtm.dominionvascularspecialist.com'
 - 'fibvg.mathishome.com'
@@ -440395,6 +440396,7 @@ payload:
 - 'fluffyscompleatbouti.net.mydays.de'
 - 'flughafenberlinbrand.tt.omtrdc.net'
 - 'fluid-app.pickyourtrail.com'
+- 'fluid-player-analytics.sky.it'
 - 'fluidaa3.tt.omtrdc.net'
 - 'fluidad1.tt.omtrdc.net'
 - 'fluidr3.aida.tt.omtrdc.net'
