@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-06 10:47:10
+# Generated on: 2026-11-06 17:59:46
 # Generated AdBlock rules
-# Total entries: 698236
+# Total entries: 698237
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -148923,6 +148923,7 @@ payload:
 - 'dvv009j588zal.cloudfront.net'
 - 'dvvkov.agrieuro.de'
 - 'dvwa.awsnrtqa1.k8s.tt.omtrdc.net'
+- 'dvwztnx4ab3fl.cloudfront.net'
 - 'dw-1.net.daraz.com'
 - 'dw-amer-immersion-day-cdp-env.tt.omtrdc.net'
 - 'dw-bucketns2.twtelecom.net.daraz.com'
