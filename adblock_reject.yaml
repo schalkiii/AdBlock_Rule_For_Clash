@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-06 17:59:46
+# Generated on: 2026-11-07 01:09:04
 # Generated AdBlock rules
-# Total entries: 698237
+# Total entries: 698241
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -112366,6 +112366,7 @@ payload:
 - 'contuploadner-csr31.net.daraz.com'
 - 'contura.tt.omtrdc.net'
 - 'conturbation.net.daraz.com'
+- 'contuselegator.com'
 - 'contviewiner.d.ns.emviewilvision.net.daraz.com'
 - 'contvmol.summevm.net.daraz.com'
 - 'contwebapprol.summewebappr.net.daraz.com'
@@ -653898,6 +653899,7 @@ payload:
 - 'tramantis-r-oa-1.net.daraz.com'
 - 'tramapmapg.r-ln-1.net.daraz.com'
 - 'tramarsr-oa-1.net.daraz.com'
+- 'trambelongedallure.com'
 - 'tramerchant-r-oa-1.net.daraz.com'
 - 'tramino.s3.tt.omtrdc.net'
 - 'tramitesbogotastaging.stage.raagtune.net.daraz.com'
@@ -669877,6 +669879,8 @@ payload:
 - 'visitqatar.tt.omtrdc.net'
 - 'visits.iloveuobgold.com'
 - 'vismapublic.visma.fi'
+- 'visor.sberbank.ru'
+- 'visor.sbrf.ru'
 - 'vistaresolveaccept.share.ntv.io'
 - 'visual.danielgomezglobal.com'
 - 'visualdx2gg.tt.omtrdc.net'
