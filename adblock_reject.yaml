@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-07 09:56:21
+# Generated on: 2026-11-07 15:53:40
 # Generated AdBlock rules
-# Total entries: 698241
+# Total entries: 698242
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -107321,6 +107321,7 @@ payload:
 - 'collector.scopely.io'
 - 'collector.shopstream.co'
 - 'collector.shorte.st'
+- 'collector.snowplow.supercell.com'
 - 'collector.snplow.net'
 - 'collector.statowl.com'
 - 'collector.superwall.me'
@@ -567463,6 +567464,7 @@ payload:
 - 'mkt.soprema.es'
 - 'mkt.sparkjapan.co.jp'
 - 'mkt.starmeup.com'
+- 'mkt.supercell.com'
 - 'mkt.syleg.fr'
 - 'mkt.t2o.com'
 - 'mkt.telstar.com'
@@ -659969,7 +659971,6 @@ payload:
 - 'unsubscribe.e.gminsurance.com'
 - 'unsubscribe.e.silverfernfarms.com'
 - 'unsubscribe.e.wellcare.com'
-- 'unsubscribe.email.premierleague.com'
 - 'unsubscribe.email.verizon.com'
 - 'unsubscribe.explore.westernsydney.edu.au'
 - 'unsubscribe.interbank.pe'
