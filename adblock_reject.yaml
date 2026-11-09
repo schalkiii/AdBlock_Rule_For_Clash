@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-09 18:18:09
+# Generated on: 2026-11-10 04:47:10
 # Generated AdBlock rules
-# Total entries: 698245
+# Total entries: 698248
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -550556,6 +550556,7 @@ payload:
 - 'lvx6gjvatruyw9n-p.adkoffer.fr'
 - 'lvxuiremkv92e715k2jt.zg6ucmy6jp8tumlo6t4.cfd'
 - 'lw-c-log.lastwarapp.com'
+- 'lw-c-log.lastwarapp.net'
 - 'lw.b.inhaabit.com'
 - 'lwadm.com'
 - 'lwashh.hessischer-jobanzeiger.de'
@@ -590361,6 +590362,7 @@ payload:
 - 'pp12.conf.19.altad.share.ntv.io'
 - 'pp3-sdk-api.profilepassport.jp'
 - 'pp3-sdkdata-v2-ut.profilepassport.jp'
+- 'pp3-sdkdata-v2.profilepassport.jp'
 - 'ppadv.actonservice.com'
 - 'ppao.usw.coherentbody.com'
 - 'ppapache.altad.share.ntv.io'
@@ -653263,6 +653265,7 @@ payload:
 - 'tracklabs.zenviaahome.com'
 - 'tracklabs.zenvorafit.com'
 - 'trackler-autumn.net.daraz.com'
+- 'tracklet.prod.tech.as-nmt.de'
 - 'tracklocalhost.staging.net.daraz.com'
 - 'trackmail.festilight.fr'
 - 'trackmailgun.lojel.com'
