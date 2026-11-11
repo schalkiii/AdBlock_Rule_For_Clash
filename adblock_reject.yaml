@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-11 18:07:24
+# Generated on: 2026-11-12 01:54:27
 # Generated AdBlock rules
-# Total entries: 699618
+# Total entries: 699620
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -52671,7 +52671,6 @@ payload:
 - 'analytics.churchthemes.com'
 - 'analytics.churchtools.website'
 - 'analytics.churnzero.net'
-- 'analytics.cibc.com'
 - 'analytics.cibcrewards.com'
 - 'analytics.cinematoday.jp'
 - 'analytics.cirroenergy.com'
@@ -112814,6 +112813,7 @@ payload:
 - 'cool.openpo.st'
 - 'cool.tannenbusch.info'
 - 'cool3c3c-satta.net.daraz.com'
+- 'coolaspen.tech'
 - 'coolbuy.go-static.info'
 - 'cooldog.realtyforum360.com'
 - 'cooler-spare-15.accountcatalogue.tt.omtrdc.net'
@@ -434349,6 +434349,7 @@ payload:
 - 'fancyapi.com'
 - 'fancybox.elal.tt.omtrdc.net'
 - 'fancydsp.com'
+- 'fancyotter.me'
 - 'fancyrat.calebporzio.com'
 - 'fancyrat.flatuicolors.com'
 - 'fancyrat.keurslager-goeminne.be'
@@ -439361,6 +439362,7 @@ payload:
 - 'fine.youngwellbeinghub.co.uk'
 - 'fineart.go-static.info'
 - 'fineart.ss.dimanoinmano.it'
+- 'finebucket.info'
 - 'finediamondsofatlanta.tt.omtrdc.net'
 - 'finelight.tt.omtrdc.net'
 - 'finenovembre.tt.omtrdc.net'
