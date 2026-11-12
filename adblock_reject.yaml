@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-12 12:29:18
+# Generated on: 2026-11-12 21:10:05
 # Generated AdBlock rules
-# Total entries: 699621
+# Total entries: 699623
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -446676,6 +446676,7 @@ payload:
 - 'fxlcvd.icu'
 - 'fxlnal.bonajour.com'
 - 'fxlpux.nakedcashmere.com'
+- 'fxltsbl.com'
 - 'fxluxe.flexjet.com'
 - 'fxm.tt-stage-ci1.omtrdc.net'
 - 'fxmdjr.mamastar.jp'
@@ -638725,6 +638726,7 @@ payload:
 - 'subp-west-west-sit-opensearch.api-gateway.ls.tt.omtrdc.net'
 - 'subr.loanable.co.uk'
 - 'subs.cnameprod.cjmadobe.com'
+- 'subscribe-forms.beehiiv.com'
 - 'subscribe.adpinfo.com'
 - 'subscribe.car.org'
 - 'subscribe.cepa.org'
