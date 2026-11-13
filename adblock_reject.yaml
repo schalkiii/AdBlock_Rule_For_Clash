@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-13 09:32:18
+# Generated on: 2026-11-13 16:42:21
 # Generated AdBlock rules
-# Total entries: 699623
+# Total entries: 699625
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -598289,6 +598289,7 @@ payload:
 - 'rowsrm.atasunoptik.com.tr'
 - 'roxtec.actonservice.com'
 - 'royalautomobileclubo.tt.omtrdc.net'
+- 'royalbluefireplace.com'
 - 'royalmailgroupltd.tt.omtrdc.net'
 - 'royalsundaram.tt.omtrdc.net'
 - 'royplz.scottsmenswear.com'
@@ -670693,6 +670694,7 @@ payload:
 - 'view.zoko-marketing.co.il'
 - 'view.zwilling-news.com'
 - 'view2.email.ticketmaster.com'
+- 'viewanalitycs.org'
 - 'viewpartner.net.daraz.com'
 - 'viewpoint.rciadventure.com'
 - 'views-dual.hulu.com'
