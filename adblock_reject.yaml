@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-16 01:43:01
+# Generated on: 2026-11-16 06:09:06
 # Generated AdBlock rules
-# Total entries: 699626
+# Total entries: 699628
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -64768,6 +64768,7 @@ payload:
 - 'beacon.us-east-2.internal.dradis.netflix.com'
 - 'beacon.us-west-2.internal.dradis.netflix.com'
 - 'beacon.vertebrae-axis.com'
+- 'beacon.viafoura.io'
 - 'beacon.walmart.ca'
 - 'beacon.walmart.com'
 - 'beacon.watch.impress.co.jp'
@@ -562635,6 +562636,7 @@ payload:
 - 'membership.mortonarb.org'
 - 'membership.tentrinitysquare.com'
 - 'memberwww.partner.net.daraz.com'
+- 'memcyco.com'
 - 'memelq.acs.org'
 - 'memhosp.hrm.healthgrades.com'
 - 'memjo.theshoecareshop.com'
