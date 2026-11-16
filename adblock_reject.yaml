@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-16 10:08:00
+# Generated on: 2026-11-16 17:43:51
 # Generated AdBlock rules
-# Total entries: 699628
+# Total entries: 699630
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -573179,6 +573179,7 @@ payload:
 - 'nalpha.mobilecl.bellsouth.net.daraz.com'
 - 'namazonwebservicesinc.tt.omtrdc.net'
 - 'namcah.alipearlhair.com'
+- 'namebrain.org'
 - 'nami.arena.dog'
 - 'namrah.somervillewatchco.com'
 - 'namrinfo.motorolasolutions.com'
@@ -697013,6 +697014,7 @@ payload:
 - 'zioxmo4foeo4dmv4.net.daraz.com'
 - 'zipkin.fikfapcams.com'
 - 'zipkin.sc7.com'
+- 'zipzirim.com'
 - 'ziqrso.24mx.no'
 - 'zismc.trygoomz.com'
 - 'zispj.skinlaundry.com'
