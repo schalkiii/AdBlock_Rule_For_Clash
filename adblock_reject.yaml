@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-16 17:43:51
+# Generated on: 2026-11-17 03:55:08
 # Generated AdBlock rules
-# Total entries: 699630
+# Total entries: 699633
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -51991,6 +51991,7 @@ payload:
 - 'amazimaministries.xham.live'
 - 'amazing.tagpeak.com'
 - 'amazingentri.stape.dev'
+- 'amazingfork.com'
 - 'amazon-email.branch.rocks'
 - 'amazon-location-dev.share.ntv.io'
 - 'amazonfreight.tt.omtrdc.net'
@@ -86921,6 +86922,7 @@ payload:
 - 'cassia-re12stagingonbert2mp3.net.daraz.com'
 - 'cassia-re12stagingr.net.daraz.com'
 - 'cassia-re12stagingstagingwww.ysr.net.daraz.com'
+- 'cast-imp.jtbc.co.kr'
 - 'cast.net.anwalt.de'
 - 'castle-stagingwww.ysr.net.daraz.com'
 - 'castlesandmanorhouses.tt.omtrdc.net'
@@ -637171,6 +637173,7 @@ payload:
 - 'stats.pronouns.page'
 - 'stats.propublica.org'
 - 'stats.protoelectro.com'
+- 'stats.proxypurity.com'
 - 'stats.psychotherapieravensburg.de'
 - 'stats.psykedeliskportal.dk'
 - 'stats.pttrn.io'
