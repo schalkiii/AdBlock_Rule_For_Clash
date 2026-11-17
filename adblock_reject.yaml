@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-17 19:05:48
+# Generated on: 2026-11-18 03:51:47
 # Generated AdBlock rules
-# Total entries: 699635
+# Total entries: 699636
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -70458,6 +70458,7 @@ payload:
 - 'bialkowskir2.myavlive.com'
 - 'bialykamien-homebiuro.biuroakces.tt.omtrdc.net'
 - 'bianca-latest-iap.tt.omtrdc.net'
+- 'bianopixel.com'
 - 'bibglj.timberland.fr'
 - 'bibione-stagehasani.net.daraz.com'
 - 'bibione.stagemymangaonline.net.daraz.com'
