@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-19 08:23:26
+# Generated on: 2026-11-19 15:51:14
 # Generated AdBlock rules
-# Total entries: 699636
+# Total entries: 699638
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -106985,6 +106985,7 @@ payload:
 - 'cogent.mboxedge34-alb02.tt.omtrdc.net'
 - 'cognify.tt-qe-ci1.omtrdc.net'
 - 'cognition.tt-qe2.omtrdc.net'
+- 'cognitivlabs.com'
 - 'cognito-idp.tt-qe2.omtrdc.net'
 - 'cognitohq.makemytrip.tt.omtrdc.net'
 - 'cognizantsolutions.hdfclife.tt.omtrdc.net'
@@ -595424,6 +595425,7 @@ payload:
 - 'rain.franzy.com'
 - 'rain.journey.com'
 - 'rainbow-prod-jdlog.ldoverseas.com'
+- 'rainbow.sheepesports.com'
 - 'rainmaker.production-public.tubi.io'
 - 'rainmaker4.production-public.tubi.io'
 - 'raio.obraxray.com'
