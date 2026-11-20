@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-20 12:00:41
+# Generated on: 2026-11-20 20:31:07
 # Generated AdBlock rules
-# Total entries: 699638
+# Total entries: 699640
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -40524,6 +40524,7 @@ payload:
 - 'a.meinmpp.de'
 - 'a.melodyofus.com'
 - 'a.meloja.com.br'
+- 'a.menards.com'
 - 'a.mercuriurval.com'
 - 'a.mi-clos.com'
 - 'a.mi-imc.com'
@@ -93775,6 +93776,7 @@ payload:
 - 'cheese10yunstage-bejav.net.daraz.com'
 - 'cheese10yunstage.stage-damxx.net.daraz.com'
 - 'cheesecafe2.go-static.info'
+- 'cheeseoverlordsaline.com'
 - 'cheetah.gaptry.com'
 - 'cheetah.songrender.com'
 - 'cheetah.stolenboats.info'
@@ -602600,6 +602602,7 @@ payload:
 - 'sapot.1000bulbs.com'
 - 'sapphire.enamel-pins.com'
 - 'saprouter.notifysrv.com'
+- 'saqtuwrryaft.in'
 - 'sar.aljaja-sa.com'
 - 'sar.oralsinsantarosa.com.br'
 - 'sar.reachcart.xyz'
@@ -639758,7 +639761,6 @@ payload:
 - 'sxvkhq.downlights.co.uk'
 - 'sxwxswg8z1xe.www.arnowebtv.com'
 - 'sxyemx.micollarconnombre.com'
-- 'sy.ameba.jp'
 - 'sy.nicdecor.com'
 - 'sy1.nicdecor.com'
 - 'sy2kpnlbujuzd3t-p.adktrack34.xyz'
