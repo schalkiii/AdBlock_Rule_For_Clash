@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-20 20:31:07
+# Generated on: 2026-11-21 04:40:43
 # Generated AdBlock rules
 # Total entries: 699640
 
@@ -430247,6 +430247,7 @@ payload:
 - 'event-dot-procolor-backend.appspot.com'
 - 'event-gateway.data.karrotmarket.com'
 - 'event-hce-eu.fujifilm.com'
+- 'event-ingestion.yazio-analytics.com'
 - 'event-log-api-data-platform-data-lake-prod.gryphline.com'
 - 'event-log-api-ipv6.gryphline.com'
 - 'event-portal.dailyinnovation.biz'
@@ -694460,7 +694461,6 @@ payload:
 - 'yaxlek.dandy-house.co.jp'
 - 'yayoicoltd.tt.omtrdc.net'
 - 'yazhouweiyihefabocai.goasrv.com'
-- 'yazio-analytics.com'
 - 'yazzuf.joyn.de'
 - 'ybc.poyobfz1i6kpgxcv6t92ux32.cyou'
 - 'ybczal.bitterliebe.com'
