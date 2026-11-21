@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-21 09:43:48
+# Generated on: 2026-11-21 16:54:21
 # Generated AdBlock rules
-# Total entries: 699640
+# Total entries: 699641
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -112652,6 +112652,7 @@ payload:
 - 'conv.vsl.nicoleforziati.com.br'
 - 'convenemeeting.tt-stage3.omtrdc.net'
 - 'convention.interfaceflor.com'
+- 'conventionalresponse.com'
 - 'convep.cuna.tt.omtrdc.net'
 - 'conver.pintura-cromada.com'
 - 'convergentdental.actonservice.com'
