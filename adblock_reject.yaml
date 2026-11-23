@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-23 10:46:05
+# Generated on: 2026-11-23 19:23:59
 # Generated AdBlock rules
-# Total entries: 699641
+# Total entries: 699644
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -126030,6 +126030,7 @@ payload:
 - 'datapix.bnzoshop.com'
 - 'datapkg.nnparkings.com'
 - 'dataplane-admin.net.daraz.com'
+- 'dataplane.rudderstack.com'
 - 'dataplane.sleekplan.com'
 - 'dataplatform.txfmedia.com'
 - 'datarangers-event.myrightone.com'
@@ -594598,6 +594599,7 @@ payload:
 - 'qovua60gue.tubewolf.com'
 - 'qowfuv.virbacavto.ru'
 - 'qoygsv.born2be.pl'
+- 'qozkbwkxygxlrs.com'
 - 'qp.info.quironprevencion.com'
 - 'qp.pendomunreel.qpon'
 - 'qpaju.equimea.de'
@@ -693279,6 +693281,7 @@ payload:
 - 'xtales.tt.omtrdc.net'
 - 'xtatwn.hillbergandberk.com'
 - 'xtazfx.50factory.com'
+- 'xtaztxiibmcgwv.com'
 - 'xtbys.thefitville.com'
 - 'xtc.milesmusicschool.dk'
 - 'xtcltd.tt.omtrdc.net'
