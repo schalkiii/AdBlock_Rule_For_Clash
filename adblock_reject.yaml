@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-24 14:32:58
+# Generated on: 2026-11-25 02:12:15
 # Generated AdBlock rules
-# Total entries: 784974
+# Total entries: 784976
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -525195,6 +525195,7 @@ payload:
 - 'ingest.monsha.ai'
 - 'ingest.sendsawa.com'
 - 'ingest.skarb.work'
+- 'ingest.t3.codes'
 - 'ingest.unifygtm.com'
 - 'ingest.wealthos.cc'
 - 'ingest.webcol.sdp.peacocktv.com'
@@ -646521,6 +646522,7 @@ payload:
 - 'releventsportsllc.tt.omtrdc.net'
 - 'reliable.elgas.com.au'
 - 'reliable.tt-qe-ci1.omtrdc.net'
+- 'reliablelinen.com'
 - 'reliamax4435.tt.omtrdc.net'
 - 'reliancecapitalasset.tt.omtrdc.net'
 - 'reliancecapitalasset.tt.tt.omtrdc.net'
