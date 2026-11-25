@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-25 02:12:15
+# Generated on: 2026-11-25 10:29:18
 # Generated AdBlock rules
-# Total entries: 784976
+# Total entries: 784978
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -515404,6 +515404,7 @@ payload:
 - 'hxe1grkqql2xtnfa.ae29-sjc12-dr01.net.daraz.com'
 - 'hxe1grkqql2xtnfa.net.daraz.com'
 - 'hxe1grkqql2xtnfa.wlan-switch.partner.nautilus.net.daraz.com'
+- 'hxgnwrwslhzgrmjsfvdevrjpn.com'
 - 'hxiabp.colins.com.tr'
 - 'hxkxea.automotordursan.com'
 - 'hxme.127.0.0.1stampscom.tt.omtrdc.net'
@@ -651113,6 +651114,7 @@ payload:
 - 'ry.regianfrisure.cfd'
 - 'ry0.rythmefm.com'
 - 'ry2.aida.tt.omtrdc.net'
+- 'ry6wy3dr62usd0fnicfk.com'
 - 'rya.tt.omtrdc.net'
 - 'ryan.hyattcorporation.tt.omtrdc.net'
 - 'ryanair.com.ssl.d3.sc.tt.omtrdc.net'
