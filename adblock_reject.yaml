@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-25 10:29:18
+# Generated on: 2026-11-25 19:39:54
 # Generated AdBlock rules
-# Total entries: 784978
+# Total entries: 784983
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -52492,6 +52492,7 @@ payload:
 - 'analytics.devshivan.com'
 - 'analytics.dga.org'
 - 'analytics.diatelos.com'
+- 'analytics.did.kr'
 - 'analytics.digiplace.site'
 - 'analytics.digitaleyes.ai'
 - 'analytics.digitalscale.pro'
@@ -464706,6 +464707,7 @@ payload:
 - 'foyer.rogerscommunicaitonp.tt.omtrdc.net'
 - 'foyer55-lvs.tt.omtrdc.net'
 - 'foysal.desishad.com'
+- 'fozekikikiminu.com'
 - 'fozmeadowsstaging.net.daraz.com'
 - 'fozmeadowsstagingstage-parmakla.net.daraz.com'
 - 'fozmeadowsstagingstage.esportesdasorte.net.daraz.com'
@@ -703487,6 +703489,7 @@ payload:
 - 'stms.transforminglives.co.uk'
 - 'stmsoidtslib-ht-1.net.daraz.com'
 - 'stmstaging1.foh.tt.omtrdc.net'
+- 'stmtag.ru'
 - 'stmtk.goasrv.com'
 - 'stmtsi4.tt-qe2.omtrdc.net'
 - 'stmua.automobileclubofsout.tt.omtrdc.net'
@@ -721259,6 +721262,7 @@ payload:
 - 'track.dictum-gartenwerkzeug.de'
 - 'track.dictum-handwerksgalerie.de'
 - 'track.dictum-shop.de'
+- 'track.did.kr'
 - 'track.die-gams.info'
 - 'track.diethackz.com'
 - 'track.difaty.com.br'
@@ -722928,6 +722932,7 @@ payload:
 - 'tracker.arete2.tt.omtrdc.net'
 - 'tracker.atlassian.atlassian-app.tt.omtrdc.net'
 - 'tracker.azet.sk'
+- 'tracker.beam.remp.startitup.sk'
 - 'tracker.bellsouth.administrator.net.daraz.com'
 - 'tracker.bigl.ua'
 - 'tracker.bkk24.de'
