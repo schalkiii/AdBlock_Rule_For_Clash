@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-25 19:39:54
+# Generated on: 2026-11-26 04:38:06
 # Generated AdBlock rules
-# Total entries: 784983
+# Total entries: 784988
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -95927,6 +95927,7 @@ payload:
 - 'clerical-stagemymangaonline.net.daraz.com'
 - 'clerical.staging.cointoon.net.daraz.com'
 - 'clericalstagingsatta-matka.net.daraz.com'
+- 'clerk-telemetry.com'
 - 'clerk.hotliveporn.com'
 - 'clesor.uoecollection.com'
 - 'clessn.net.daraz.com'
@@ -144100,6 +144101,7 @@ payload:
 - 'download.frndsoffrnds.com'
 - 'download.frolit.io'
 - 'download.futurefoodtechsf.com'
+- 'download.gameanalytics.com'
 - 'download.gcc.tt.omtrdc.net'
 - 'download.getneema.com'
 - 'download.idemia-group.com'
@@ -146343,6 +146345,7 @@ payload:
 - 'dsgsvc.wattano.de'
 - 'dsgtas.cyberark.tt.omtrdc.net'
 - 'dsh-dev.grundfosholdingas.tt.omtrdc.net'
+- 'dsh-otel-collector.deepseeksvc.com'
 - 'dsh1ct2zrfakt.cloudfront.net'
 - 'dsharando-us1.tt.omtrdc.net'
 - 'dsharelatextsharelatex.donaldson.tt.omtrdc.net'
@@ -475331,6 +475334,7 @@ payload:
 - 'ghssetssummer.net.daraz.com'
 - 'ghsyapi.myavlive.com'
 - 'ghsync-dev.tt-qe5.omtrdc.net'
+- 'ghtinc.com'
 - 'ghtry.amateurswild.com'
 - 'ghttewhtyr-hx-1.net.daraz.com'
 - 'ghud.hkdisneyland.tt.omtrdc.net'
@@ -709804,6 +709808,7 @@ payload:
 - 'tag.applytoweld.com'
 - 'tag.aromatico.de'
 - 'tag.atasunoptik.com.tr'
+- 'tag.atom.gamedistribution.com'
 - 'tag.aumago.com'
 - 'tag.b-sync.ch'
 - 'tag.beyondcarat.com'
