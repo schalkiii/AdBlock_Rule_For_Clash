@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-26 20:35:01
+# Generated on: 2026-11-27 05:52:54
 # Generated AdBlock rules
-# Total entries: 784988
+# Total entries: 784990
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -58394,6 +58394,7 @@ payload:
 - 'appmarketing.net.daraz.com'
 - 'appmarketingpush.net.daraz.com'
 - 'appmetr.com'
+- 'appmetrica.sovcombank.ru'
 - 'appmetrica.yandex.net'
 - 'appnext-a.akamaihd.net'
 - 'appnext.hs.llnwd.net'
@@ -628069,6 +628070,7 @@ payload:
 - 'pamvc.sexymodest.com'
 - 'pamzqm.yitechnology.com'
 - 'pan-switchtnen-switch.net.daraz.com'
+- 'pan.pazarama.com'
 - 'pan2.connect.tt.omtrdc.net'
 - 'pana.regcytech.com'
 - 'panama-gamma.eu-west-1.tt.omtrdc.net'
