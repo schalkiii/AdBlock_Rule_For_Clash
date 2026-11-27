@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-27 11:51:04
+# Generated on: 2026-11-27 21:14:08
 # Generated AdBlock rules
-# Total entries: 784992
+# Total entries: 784996
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -45910,6 +45910,7 @@ payload:
 - 'ac-email-tracking.stappensioen.nl'
 - 'ac.4wank.com'
 - 'ac.altiri.jp'
+- 'ac.avito.ru'
 - 'ac.conel.jp'
 - 'ac.ecai-report.com'
 - 'ac.fapnado.xxx'
@@ -64115,6 +64116,7 @@ payload:
 - 'bealumniav.net.daraz.com'
 - 'beam-2.tt-qe5.omtrdc.net'
 - 'beam.bereach.ai'
+- 'beam.denikn.cz'
 - 'beam.ecomms.beamconnect.com.au'
 - 'beam.remp.impresa.pt'
 - 'beam.sciencehunter.co.id'
@@ -87853,6 +87855,7 @@ payload:
 - 'cdn.dev-qa.tt.omtrdc.net'
 - 'cdn.dezacibesodexi.com'
 - 'cdn.dfsdk.com'
+- 'cdn.diginetica.net'
 - 'cdn.djtig.com'
 - 'cdn.dl.tt.omtrdc.net'
 - 'cdn.dminorschool.com'
@@ -711016,6 +711019,7 @@ payload:
 - 'targetspot.com'
 - 'targetstore.actonservice.com'
 - 'targettur.www.svenskaspel.se'
+- 'tarqivo.com'
 - 'tarsier.emitremmus.com'
 - 'tarsier.kriterie.se'
 - 'tartanmarketing.actonservice.com'
