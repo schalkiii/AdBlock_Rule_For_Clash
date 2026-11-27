@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-11-27 05:52:54
+# Generated on: 2026-11-27 11:51:04
 # Generated AdBlock rules
-# Total entries: 784990
+# Total entries: 784992
 
 payload:
 - '0--skitch--0.tt.omtrdc.net'
@@ -54153,6 +54153,7 @@ payload:
 - 'aowaat.elfadistrelec.fi'
 - 'aozmpm.jwell.com'
 - 'aozwsa.scotthotel.com'
+- 'ap-prd-edge-clientlog.nexon.com'
 - 'ap.absoluteprotein.in'
 - 'ap.alphaplatform.net'
 - 'ap.anzentoushi.com'
@@ -717793,6 +717794,7 @@ payload:
 - 'toy-agent.awscmhqa.k8s.tt.omtrdc.net'
 - 'toy-debugger.net.daraz.com'
 - 'toy.libaasfashionmart.com'
+- 'toy.log.nexon.io'
 - 'toy.net.daraz.com'
 - 'toyancancookcat-ns2.cl.bellsouth.net.daraz.com'
 - 'toye44404.goasrv.com'
